@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). 
+I am currently a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). 
 <!-- I obtained my Master's degree at HKPolyU in 2021, majored in Information Technology. -->
 
-Before pursuing higher degrees at HKPolyU, I was an IT Project Manager and Subject Matter Expert in LFLogistics, a world's leading company in supply chain. I took lead of the system development and implementation of a large intelligent digital project for over 10 key clients, e.g., Nike, Under Armour, Victoria's Secret, Tommy Hilfiger, etc. 
+Before pursuing higher degrees at HKPolyU, I was an IT Project Manager and Subject Matter Expert at LFLogistics, a world's leading company in supply chain. I took lead of the system development and implementation of a large intelligent digital project for over 10 key clients.
 
 After the fascinating experience there, I ask myself two questions: <br>
 (i) What is the real smart DATA? (ii) How could we make the DATA smarter?
