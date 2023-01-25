@@ -21,19 +21,18 @@ In pursuit of what I dream of, my current research interests include but not lim
 <b>2023</b>
   
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).     
-    <b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao     
-    ACM International Conference on Web Search and Data Mining (WSDM).  
-<!--     ![KAEL](/images/KAEL.jpg "KAEL") -->
+    <font size=2><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao     
+    <i>ACM International Conference on Web Search and Data Mining (WSDM).</i>  </font>
     <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
 
 <b>2022</b>
 
 * [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     
     Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang*, Yezi Liu, Linchuan Xu.      
-    ACM International Conference on Information and Knowledge Management (CIKM).  
+    <i>ACM International Conference on Information and Knowledge Management (CIKM). </i>  
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     
     Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
-    International Conference on Web-Based Learning (ICWL).       
+    <i>International Conference on Web-Based Learning (ICWL). </i>     
 * [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31).
     Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary Sin, Yaowei Wang.      
-    International Conference on Blended Learning (ICBL).   
+    <i>International Conference on Blended Learning (ICBL). </i>  
