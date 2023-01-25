@@ -15,18 +15,16 @@ Before pursuing higher degrees at HKPolyU, I was an IT Project Manager and Subje
 After the fascinating experience there, I ask myself two questions: <br>
 (i) What is the real smart DATA? (ii) How could we make the DATA smarter?<br><br>
 
-In pursuit of what I dream of, my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy delving into knowledge graph error detection and commonsense question answering over knowledge graphs. The more I expose to the data, the more charm I appreciate. I'm still on my way towards a smart data researcher. </font>
+In pursuit of what I dream of, my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy delving into knowledge graph error detection and commonsense question answering over knowledge graphs. The more I expose to the data, the more charm I appreciate. I'm still on my way towards a smart data researcher. </font> <br>
   
 <h1> Publications </h1>
 <b>2023</b>
-  
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   
     <i>ACM International Conference on Web Search and Data Mining (WSDM).</i>  </font>
     <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
 
 <b>2022</b>
-
 * [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     <br>
     <font size=3>Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang*, Yezi Liu, Linchuan Xu.    <br>  
     <i>ACM International Conference on Information and Knowledge Management (CIKM). </i>  </font>
