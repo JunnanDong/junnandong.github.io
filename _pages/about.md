@@ -21,6 +21,7 @@ In pursuit of what I dream of, my current research interests include but not lim
 <h1> Publications </h1>
 <b>2023</b>
 <font size=2>
+  
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).     
     <b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao     
     <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>.  
