@@ -24,7 +24,7 @@ In pursuit of what I dream of, my current research interests include but not lim
     <i>ACM The Web Conference (WWW).</i>  </font>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="250"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="700"/>
-* [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).   <br>
+* [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_WSDM2023.pdf).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   
     <i>ACM International Conference on Web Search and Data Mining (WSDM).</i>  </font>
     <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="250"/>
@@ -34,7 +34,7 @@ In pursuit of what I dream of, my current research interests include but not lim
 * [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     <br>
     <font size=3>Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang*, Yezi Liu, Linchuan Xu.    <br>  
     <i>ACM International Conference on Information and Knowledge Management (CIKM). </i>  </font>
-* [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     <br>
+* [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Wentao_ICWL2022.pdf).     <br>
     <font size=3>Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang   <br>  
     <i>International Conference on Web-Based Learning (ICWL). </i>     </font>
 * [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31).
