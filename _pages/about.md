@@ -21,7 +21,7 @@ In pursuit of what I dream of, my current research interests include but not lim
 
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://junnandong.github.io).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
-    <i>The ACM Web Conference (WWW).</i>  </font>
+    <i>ACM The Web Conference (WWW).</i>  </font>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="250"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="700"/>
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).   <br>
