@@ -14,7 +14,7 @@ Before pursuing higher degrees at HKPolyU, I was an IT Project Manager and Subje
 
 After the fascinating experience there, I ask myself two questions: <br>
 (i) What is the real smart DATA? (ii) How could we make the DATA smarter?<br>
-In pursuit of what I dream of, my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy delving into knowledge graph error detection and commonsense question answering over knowledge graphs. The more I expose to the data, the more charm I appreciate. I'm still on my way towards a smart data researcher. 
+In pursuit of what I dream of, my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy delving into knowledge graphs and commonsense question answering. The more I expose to the data, the more charm I appreciate. I'm still on my way towards a smart data researcher. 
   
 <h1> Publications </h1>
 <b>2023</b>
