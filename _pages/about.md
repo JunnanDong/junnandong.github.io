@@ -21,22 +21,22 @@ my current research interests include but not limit to Data Mining and Graph Lea
 
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://junnandong.github.io).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
-    <i>ACM The Web Conference (WWW).</i>  </font>
+    <i>The ACM Web Conference (<b>WWW</b>).</i>  </font>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="250"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="700"/>
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_WSDM2023.pdf).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   
-    <i>ACM International Conference on Web Search and Data Mining (WSDM).</i>  </font>
+    <i>ACM International Conference on Web Search and Data Mining (<b>WSDM</b>).</i>  </font>
     <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="250"/>
     <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
 
 <b>2022</b>
 * [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     <br>
     <font size=3>Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang*, Yezi Liu, Linchuan Xu.    <br>  
-    <i>ACM International Conference on Information and Knowledge Management (CIKM). </i>  </font>
+    <i>ACM International Conference on Information and Knowledge Management (<b>CIKM</b>). </i>  </font>
 * [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Wentao_ICWL2022.pdf).     <br>
     <font size=3>Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang   <br>  
-    <i>International Conference on Web-Based Learning (ICWL). </i>     </font>
+    <i>International Conference on Web-Based Learning (<b>ICWL</b>). </i>     </font>
 * [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31).
     <font size=3>Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary Sin, Yaowei Wang.  <br>    
-    <i>International Conference on Blended Learning (ICBL). </i>  </font>
+    <i>International Conference on Blended Learning (<b>ICBL</b>). </i>  </font>
