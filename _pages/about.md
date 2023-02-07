@@ -29,6 +29,9 @@ my current research interests include but not limit to Data Mining and Graph Lea
     <i>ACM International Conference on Web Search and Data Mining (<b>WSDM</b>).</i>  </font>
     <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="250"/>
     <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
+* [College-Related Question Answering based on Knowledge Graph](https://junnandong.github.io).   <br>
+    <font size=3>Cheng Peng, Hao Jiang, <b>Junnan Dong</b>,Xiao Huang* <br>   
+    <i>ACM International Conference on Web Search and Data Mining (Workshop) (<b>WSDM Workshop</b>).</i>  </font>
 
 <b>2022</b>
 * [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     <br>
