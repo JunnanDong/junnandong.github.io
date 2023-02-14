@@ -22,13 +22,13 @@ my current research interests include but not limit to Data Mining and Graph Lea
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://junnandong.github.io).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
     <i>The ACM Web Conference (<b>WWW</b>).</i>  </font>
-    <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="250"/>
-    <img src="/images/HamQA.jpg" alt="HamQA" width="700"/>
+    <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="200"/>
+    <img src="/images/HamQA.jpg" alt="HamQA" width="500"/>
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_WSDM2023.pdf).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   
     <i>ACM International Conference on Web Search and Data Mining (<b>WSDM</b>).</i>  </font>
-    <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="250"/>
-    <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
+    <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="200"/>
+    <img src="/images/KAEL.jpg" alt="KAEL" width="500"/>
 * [College-Related Question Answering based on Knowledge Graph](https://junnandong.github.io).   <br>
     <font size=3>Cheng Peng, Hao Jiang, <b>Junnan Dong</b>, Xiao Huang* <br>   
     <i>ACM International Conference on Web Search and Data Mining (Workshop) (<b>WSDM Workshop</b>).</i>  </font>
