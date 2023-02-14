@@ -40,6 +40,6 @@ my current research interests include but not limit to Data Mining and Graph Lea
 * [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Wentao_ICWL2022.pdf).     <br>
     <font size=3>Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang   <br>  
     <i>International Conference on Web-Based Learning (<b>ICWL</b>). </i>     </font>
-* [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31).
+* [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31). <br>
     <font size=3>Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary Sin, Yaowei Wang.  <br>    
     <i>International Conference on Blended Learning (<b>ICBL</b>). </i>  </font>
