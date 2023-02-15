@@ -14,7 +14,7 @@ I am currently a first-year research student in DEEP Lab at The Hong Kong Polyte
 
 Guided by two research questions, <br>
 (i) What is the real smart DATA? (ii) How could we use the DATA smarter?<br>
-my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy exploring knowledge graphs and commonsense question answering. The more I expose to the data, the more charm I appreciate. I'm still on my way towards a smart data researcher. 
+my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy exploring Knowledge Graphs and Knowledge-enhanced Question Answering. The more I expose to the data, the more charm I appreciate. I'm still on my way towards a smart data researcher. 
   
 <h1> Publications </h1>
 <b>2023</b>
