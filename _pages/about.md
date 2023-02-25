@@ -24,7 +24,7 @@ my current research interests include but not limit to Data Mining and Graph Lea
     <i>The ACM Web Conference (<b>WWW</b>).</i>  </font>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="200"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="500"/>
-* [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_WSDM2023.pdf).   <br>
+* [Active Ensemble Learning for Knowledge Graph Error Detection](https://dl.acm.org/doi/10.1145/3539597.3570368).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   
     <i>ACM International Conference on Web Search and Data Mining (<b>WSDM</b>).</i>  </font>
     <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="200"/>
