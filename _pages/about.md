@@ -11,7 +11,7 @@ redirect_from:
 I am currently a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). 
 
 Guided by two research questions, <br>
-(i) What is the real smart DATA? (ii) How could we use the DATA smarter?<br>
+(i) What is the real smart DATA? (ii) How could we make the DATA smarter?<br>
 my current research interests include but not limit to Data Mining and Graph Learning. At present, I enjoy exploring Knowledge Graphs and Knowledge-enhanced Question Answering. I'm still on my way towards a smart data researcher.
 
 Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk
