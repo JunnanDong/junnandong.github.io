@@ -20,7 +20,7 @@ Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk
 
 * [Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://junnandong.github.io).   <br>
     <font size=3>Huachi Zhou, Hao Chen, <b>Junnan Dong</b>, Daochen Zha, Chuang Zhou, Xiao Huang*<br>   
-    <i>The International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i>  </font>
+    <i>The ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i>  </font>
     <img src="/images/APDA_running example.png" alt="APDA_running" width="200"/>
     <img src="/images/APDA.png" alt="APDA" width="500"/>
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://junnandong.github.io).   <br>
