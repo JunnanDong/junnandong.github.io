@@ -24,7 +24,7 @@ Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk
     <img src="/images/APDA_running example.png" alt="APDA_running" width="200"/>
     <img src="/images/APDA.png" alt="APDA" width="500"/>
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://junnandong.github.io).   <br>
-    <font size=3><b>Junnan Dong^1^</b>, Qinggang Zhang^1^, Xiao Huang*, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
+    <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
     <i>The ACM Web Conference (<b>TheWebConf</b>).</i>  </font>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="200"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="500"/>
