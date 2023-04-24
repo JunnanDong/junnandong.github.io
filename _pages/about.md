@@ -22,14 +22,14 @@ Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk
     <i>The ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i>  </font>
     <img src="/images/APDA_running example.png" alt="APDA_running" width="200"/>
     <img src="/images/APDA.png" alt="APDA" width="500"/>
-* [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://junnandong.github.io).   <br>
+* [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_theWebConf2023.pdf).   <br>
     <font size=3><b>Junnan Dong*</b>, Qinggang Zhang*, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
-    <i>The ACM Web Conference (<b>TheWebConf/WWW</b>).</i> [Code](https://github.com/DEEP-PolyU/HamQA_TheWebConf23) </font>
+    <i>The ACM Web Conference (<b>TheWebConf/WWW</b>).</i> </font>[Code](https://github.com/DEEP-PolyU/HamQA_TheWebConf23) 
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="200"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="500"/>
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://dl.acm.org/doi/10.1145/3539597.3570368).   <br>
     <font size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   
-    <i>ACM International Conference on Web Search and Data Mining (<b>WSDM</b>).</i> [Code](https://github.com/DEEP-PolyU/KAEL_WSDM23) </font>
+    <i>ACM International Conference on Web Search and Data Mining (<b>WSDM</b>).</i> </font> [Code](https://github.com/DEEP-PolyU/KAEL_WSDM23)
     <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="200"/>
     <img src="/images/KAEL.jpg" alt="KAEL" width="500"/>
 
