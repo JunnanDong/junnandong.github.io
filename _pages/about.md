@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). 
+<span style="font-size: 3px;">I am currently a first-year PhD student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). 
 
 My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning. I'm still on my way towards a smart data researcher.
 
-Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk
+Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk </span>
 
 <h1> Publications </h1>
 <b>2023</b>
