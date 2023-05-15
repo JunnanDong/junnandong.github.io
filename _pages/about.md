@@ -16,9 +16,10 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <h1> Publications </h1>
 <b>2023</b>
 
-* [Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://junnandong.github.io).   <br>
-    <font size=3>Huachi Zhou, Hao Chen, <b>Junnan Dong</b>, Daochen Zha, Chuang Zhou, Xiao Huang<br>   
-    <i>The ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i>  </font>
+* <span style="font-size: 16px; font:bold">
+  [Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://junnandong.github.io).   <br>
+    Huachi Zhou, Hao Chen, <b>Junnan Dong</b>, Daochen Zha, Chuang Zhou, Xiao Huang<br>   
+    <i>The ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i>  </span>
     <img src="/images/APDA_running example.png" alt="APDA_running" width="200"/>
     <img src="/images/APDA.png" alt="APDA" width="500"/>
 * [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_theWebConf2023.pdf).   <br>
