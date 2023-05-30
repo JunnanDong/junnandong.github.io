@@ -42,7 +42,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
     <i>ACM International Conference on Information and Knowledge Management (<b>CIKM</b>). </i> </font>
 * <span style="font-size: 16px; font:bold">
   [College-Related Question Answering based on Knowledge Graph](https://junnandong.github.io).  </span>   <br>
-    <font size=3>Peng, Cheng, Hao Jiang, **Junnan Dong**, Xiao Huang.    <br>  
+    <font size=3>Peng, Cheng, Hao Jiang, <b>Junnan Dong</b>, Xiao Huang.    <br>  
     <i>Data Engineering. </i> </font>
 * <span style="font-size: 16px; font:bold">
   [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://junnandong.github.io).  </span>   <br>
