@@ -46,9 +46,9 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
     <i>Data Engineering. </i> </font>
 * <span style="font-size: 16px; font:bold">
   [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://junnandong.github.io).  </span>   <br>
-    <font size=3>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, and Xiao Huang.    <br>  
+    <font size=3>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang.    <br>  
     <i>Internation Conference on Web-based Learning (<b>ICWL</b>). </i> </font>
 * <span style="font-size: 16px; font:bold">
   [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://junnandong.github.io).  </span>   <br>
-    <font size=3>Li, Qing, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary PT Sin, and Yaowei Wang.    <br>  
+    <font size=3>Li, Qing, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary PT Sin, Yaowei Wang.    <br>  
     <i>International Conference on Blended Learning (<b>ICBL</b>). </i> </font>
