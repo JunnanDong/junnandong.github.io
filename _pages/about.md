@@ -17,7 +17,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <b>2023</b>
 
 * <span style="font-size: 16px; font:bold">
-  [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Junnan_theWebConf2023.pdf). </span>  <br>
+  [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583376). </span>  <br>
     <font size=3><b>Junnan Dong*</b>, Qinggang Zhang*, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
     <i>The ACM Web Conference (<b>TheWebConf/WWW</b>).</i></font>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="160"/>
