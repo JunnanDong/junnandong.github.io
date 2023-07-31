@@ -34,6 +34,10 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
     <i>The ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i></font>  
     <img src="/images/APDA_running example.png" alt="APDA_running" width="160"/>
     <img src="/images/APDA.png" alt="APDA" width="450"/>
+* <span style="font-size: 16px; font:bold">
+  [Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://junnandong.github.io). </span>  <br>
+    <font size=3>Qinggang Zhang, <b> Junnan Dong </b>, Qiaoyu Tan, Xiao Huang  <br> 
+    <i>IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>).</i></font>  
 
 <b>2022</b>
 * <span style="font-size: 16px; font:bold">
