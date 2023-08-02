@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16.5px; font:bold">I am currently a second-year PhD student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
-My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning. I'm still on my way towards a smart data researcher.</span>
+<span style="font-size: 16.5px; font:bold">I am currently a second-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
+My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning. I'm still on my way toward a smart data researcher.</span>
 
 <span style="font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
@@ -37,7 +37,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 * <span style="font-size: 16px; font:bold">
   [Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://junnandong.github.io). </span>  <br>
     <font size=3>Qinggang Zhang, <b> Junnan Dong </b>, Qiaoyu Tan, Xiao Huang  <br> 
-    <i>IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)(minor revision).</i></font>  
+    <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>) (minor revision).</i></font>  
 
 <b>2022</b>
 * <span style="font-size: 16px; font:bold">
