@@ -47,7 +47,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 * <span style="font-size: 16px; font:bold">
   [College-Related Question Answering based on Knowledge Graph](https://junnandong.github.io).  </span>   <br>
     <font size=3>Peng, Cheng, Hao Jiang, <b>Junnan Dong</b>, Xiao Huang.    <br>  
-    <i>Data Engineering. </i> </font>
+    <i>IEEE Data Engineering. </i> </font>
 * <span style="font-size: 16px; font:bold">
   [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://junnandong.github.io).  </span>   <br>
     <font size=2>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang.    <br>  </font>
