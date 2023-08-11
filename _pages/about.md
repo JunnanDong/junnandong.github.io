@@ -14,7 +14,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <span style="font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
 <h1> Publications </h1>
-(* for Co-first Author)<br>
+<font size=2><b>* for Co-first Author</b></font><br>
 <b>2023</b>
 
 * <span style="font-size: 16px; font:bold">
