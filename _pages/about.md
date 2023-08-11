@@ -48,12 +48,12 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
     <i>ACM International Conference on Information and Knowledge Management (<b>CIKM</b>). </i> </font>
 * <span style="font-size: 16px; font:bold">
   [College-Related Question Answering based on Knowledge Graph](https://junnandong.github.io).  </span>   <br>
-    <font size=3>Peng, Cheng, Hao Jiang, <b>Junnan Dong</b>, Xiao Huang.    <br>  
+    <font size=2>Peng, Cheng, Hao Jiang, <b>Junnan Dong</b>, Xiao Huang.    <br>  
     <i>IEEE Data Engineering. </i> </font>
 * <span style="font-size: 16px; font:bold">
   [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://junnandong.github.io).  </span>   <br>
-    <font size=2>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang.    <br>  </font>
-    <font size=2><i>Internation Conference on Web-based Learning (<b>ICWL</b>). </i> </font>
+    <font size=2>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang.    <br>
+    <i>Internation Conference on Web-based Learning (<b>ICWL</b>). </i> </font>
 * <span style="font-size: 16px; font:bold">
   [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://junnandong.github.io).  </span>   <br>
     <font size=2>Li, Qing, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary PT Sin, Yaowei Wang.    <br>  </font>
