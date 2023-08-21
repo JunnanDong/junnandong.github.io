@@ -14,7 +14,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <span style="font-family: Consolas; font-size: 14px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
 <h1> Publications </h1>
-<font face="Consolas" size=2><b>* for Co-first Author</b></font>
+<font face="Consolas" size=3><b>* for Co-first Author</b></font>
 
 <b>2023</b>
 
@@ -52,7 +52,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
     <i>IEEE Data Engineering. </i> </font>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   [Constructing Low-Redundant and High-Accuracy Knowledge Graphs for Education](https://junnandong.github.io).  </span>   <br>
-    <font face="Consolas" size=2>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang.    <br>
+    <font face="verdana" size=2>Li, Wentao, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang.    <br>
     <i>Internation Conference on Web-based Learning (<b>ICWL</b>). </i> </font>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://junnandong.github.io).  </span>   <br>
