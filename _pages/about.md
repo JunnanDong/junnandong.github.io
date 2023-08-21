@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Consolas; font-size: 16 px">I am currently a second-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
+<span style="font-family: Consolas; font-size: 16px">I am currently a second-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
 My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning. I'm still on my way toward a smart data researcher.</span>
 
-<span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
+<span style="font-family: Consolas; font-size: 14px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
 <h1> Publications </h1>
-<font size=2><b>* for Co-first Author</b></font>
+<font face="Consolas" size=2><b>* for Co-first Author</b></font>
 
 <b>2023</b>
 
