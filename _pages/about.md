@@ -1,4 +1,4 @@
-![image](https://github.com/JunnanDong/junnandong.github.io/assets/72617506/49e301aa-48ea-4f4c-ad76-cfa4bd10d9bc)---
+---
 permalink: /
 title: "Towards a Data Researcher"
 excerpt: "About me"
