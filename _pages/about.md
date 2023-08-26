@@ -40,7 +40,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
   <b>[Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b> Junnan Dong </b>, Qiaoyu Tan, Xiao Huang  <br> 
     <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>).</i></font>
-    <img src="/images/AEKE.png" alt="AEKE" width="450"/>
+    <img src="/images/AEKE.png" alt="AEKE" width="650"/>
 
 <b>2022</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
