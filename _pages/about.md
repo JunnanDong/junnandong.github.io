@@ -33,7 +33,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Huachi Zhou, Hao Chen, <b>Junnan Dong</b>, Daochen Zha, Chuang Zhou, Xiao Huang  <br> 
-    <i>The ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i></font>  
+    <i>ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>).</i></font>  
     <img src="/images/APDA_running example.png" alt="APDA_running" width="160"/>
     <img src="/images/APDA.png" alt="APDA" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
