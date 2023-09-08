@@ -32,8 +32,8 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
     <img src="/images/KAEL.jpg" alt="KAEL" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Gradual Study Advising with Course Knowledge Graphs](https://junnandong.github.io). </b></span>  <br>
-    <font face="verdana" size="1.8"><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng <br>   
-    <i>Internation Conference on Web-based Learning (<b>ICWL</b>). </i> </font>
+    <font face="verdana" size="1.8"><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng <br> </font> 
+    <font face="verdana" size=2><i>Internation Conference on Web-based Learning (<b>ICWL</b>). </i> </font>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Huachi Zhou, Hao Chen, <b>Junnan Dong</b>, Daochen Zha, Chuang Zhou, Xiao Huang  <br> 
