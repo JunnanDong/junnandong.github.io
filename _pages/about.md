@@ -16,8 +16,8 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 * <span style="font-size: 16px; font: bold">\[2023.09\] One paper accepted by ICWL'23.</span>
 * <span style="font-size: 16px; font: bold">\[2023.08\] One paper accepted by TKDE'23. </span>
 * <span style="font-size: 16px; font: bold">\[2023.04\] One paper accepted by SIGIR'23.</span>
-* <span style="font-size: 16px; font: bold">\[2023.01\] One paper <b>HamQA</b> accepted by WWW'23.</span>
-* <span style="font-size: 16px; font: bold">\[2022.08\] One paper <b>KAEL</b> accepted by WSDM'23.</span>
+* <span style="font-size: 16px; font: bold">\[2023.01\] Our paper <b>HamQA</b> accepted by WWW'23.</span>
+* <span style="font-size: 16px; font: bold">\[2022.08\] Our paper <b>KAEL</b> accepted by WSDM'23.</span>
 * <span style="font-size: 16px; font: bold">\[2022.05\] One paper accepted by CIKM'22.</span>
 
 <h1> Publications </h1>
