@@ -12,12 +12,13 @@ redirect_from:
 My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning. I am still on my way toward a smart data researcher.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #191970; font-size: 15px;">&bull; </span>\[2023.09\] One paper accepted by ICWL'23.</span><br>
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #191970; font-size: 15px;">&bull; </span>\[2023.08\] One paper accepted by TKDE'23. </span><br>
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #191970; font-size: 15px;">&bull; </span>\[2023.04\] One paper accepted by SIGIR'23.</span><br>
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #191970; font-size: 15px;">&bull; </span>\[2023.01\] Our paper <b><span style="color: red">HamQA</span></b> accepted by WWW'23.</span><br>
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #191970; font-size: 15px;">&bull; </span>\[2022.08\] Our paper <b><span style="color: red">KAEL</span></b> accepted by WSDM'23.</span><br>
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #191970; font-size: 15px;">&bull; </span>\[2022.05\] One paper accepted by CIKM'22.</span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.09\] One paper was accepted by ICWL'23.</span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.08\] One paper was accepted by TKDE'23. </span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.04\] One paper was accepted by SIGIR'23.</span><be>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2022.04\] I transfered from MPhil to Ph.D. Candidate.</span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.01\] Our paper <b><span style="color: red">HamQA</span></b> was accepted by WWW'23.</span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2022.08\] Our paper <b><span style="color: red">KAEL</span></b> was accepted by WSDM'23.</span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 
 <h1> Publications </h1>
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
