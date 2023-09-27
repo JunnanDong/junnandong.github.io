@@ -71,3 +71,52 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
   <b>[KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://junnandong.github.io). </b></span>   <br>
     <font face="verdana" size=2>Li, Qing, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary PT Sin, Yaowei Wang.<br>
     <i>International Conference on Blended Learning</i> (<b>ICBL</b>) </font>    
+
+  <style>
+    .team-player {
+        margin-bottom: 20px; /* Adjust the margin as per your preference for tighter or looser spacing */
+    }
+</style>
+
+<section class="section speaker text-center">
+    <div class="container">
+        <h2 class="title">PC Members</h2>
+        <div class="team">
+            <div class="row">
+                <!-- Member 1 -->
+                <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft animated">
+                    <div class="team-player">
+                        <h4 class="title">
+                            <a href="https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=en">Hao Chen</a><br>
+                            <small class="text-muted">The Hong Kong Polytechnic University</small>
+                        </h4>
+                    </div>
+                </div>
+
+                <!-- Member 2 -->
+                <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft animated">
+                    <div class="team-player">
+                        <h4 class="title">
+                            <a href="https://junnandong.github.io">Junnan Dong</a><br>
+                            <small class="text-muted">The Hong Kong Polytechnic University</small>
+                        </h4>
+                    </div>
+                </div>
+
+                <!-- Member 3 -->
+                <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft animated">
+                    <div class="team-player">
+                        <h4 class="title">
+                            <a href="https://mengnandu.com/">Mengnan Du</a><br>
+                            <small class="text-muted">New Jersey Institute of Technology</small>
+                        </h4>
+                    </div>
+                </div>
+
+                <!-- Add more members here following the same structure -->
+
+            </div>
+        </div>
+    </div>
+</section>
+
