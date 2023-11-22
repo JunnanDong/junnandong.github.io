@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span style="font-size: 16px; font: bold">I am currently a second-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
-My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning. I am still on my way towards a smart data researcher.</span><br>
+My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge-enhanced Reasoning and large language models. I am still on my way toward a smart data researcher.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.10\] I will serve as the PC member of [TheWebConf(WWW)'24](https://www2024.thewebconf.org/).</span><br>
