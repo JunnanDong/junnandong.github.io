@@ -28,7 +28,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 
 <b>2023</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[nowGPT: Black-Box Knowledge Injection for Large Language Models](https://dl.acm.org/doi/10.1145/3543507.3583376). </b></span>  <br>
+  <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://dl.acm.org/doi/10.1145/3543507.3583376). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
     <i>arxiv</i></font>
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
