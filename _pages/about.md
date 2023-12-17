@@ -30,7 +30,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
-    <i>arxiv</i></font>
+    <i>arXiv</i></font>
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
     <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
