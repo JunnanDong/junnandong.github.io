@@ -12,7 +12,7 @@ redirect_from:
 My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge Graph-enhanced Reasoning for various tasks. Recently, I have been working on integrating and improving Large Language Models for a more powerful foundation.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
-<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which improves LLMs with Knowledge Graphs.</span><br>
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which improves LLMs with Knowledge Graphs.</span><br>
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.10\] I will serve as the PC member of [TheWebConf(WWW)'24](https://www2024.thewebconf.org/).</span><br>
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.09\] Invited to serve as the reviewer of TKDD and PC member of [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html).</span><br>
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.09\] Our paper <b><span style="color: #CD5C5C">GSA</span></b> was accepted by ICWL'23.</span><br>
