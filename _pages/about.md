@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span style="font-size: 16px; font: bold">I am currently a second-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
-My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge Graph-enhanced Reasoning for various tasks. Recently, I have been working on integrating and improving Large Language Models for a more powerful foundation.</span><br>
+My research interests lie in Data Mining and Graph Learning, especially in exploring Knowledge Graph-enhanced Reasoning for various tasks. Recently, I have been working on integrating and improving Large Language Models for a more knowledgeable foundation.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which improves LLMs with Knowledge Graphs.</span><br>
