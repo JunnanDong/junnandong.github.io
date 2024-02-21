@@ -26,6 +26,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 
 <h1> Publications </h1>
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
+
 <b>2024</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). </b></span>  <br>
