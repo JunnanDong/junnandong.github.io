@@ -28,7 +28,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
 
 <b>2024</b>
-* <span style="font-family: Consolas; font-size: 16px; font:bold">
+* <span style="font-family: Consolas; font-size: 14px; font:bold">
   <b>[Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br>   
     <i>arXiv</i></font>
