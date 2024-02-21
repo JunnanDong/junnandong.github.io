@@ -12,6 +12,7 @@ redirect_from:
 My research interests lie in Data Mining and Graph Learning, especially in exploring <b>Knowledge-enhanced Reasoning</b> for various tasks. <i>Recently, I have been working on integrating and improving Large Language Models for a more knowledgeable foundation</i>.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]dong[at]connect[dot]polyu[dot]hk</span>
 
+<span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2024.01\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was released which comprehensively integrates LLMs for Knowledge-based VQA.</span><br>
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which improves LLMs with Knowledge Graphs.</span><br>
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.10\] I will serve as the PC member of [TheWebConf(WWW)'24](https://www2024.thewebconf.org/).</span><br>
 <span style="font-family: Consolas; font-size: 14px; font: bold"><span style="color: #CD5C5C; font-size: 15px;">&bull; </span>\[2023.09\] Invited to serve as the reviewer of TKDD and PC member of [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html).</span><br>
@@ -25,7 +26,12 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 
 <h1> Publications </h1>
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
-
+<b>2024</b>
+* <span style="font-family: Consolas; font-size: 16px; font:bold">
+  <b>[Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). </b></span>  <br>
+    <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br>   
+    <i>arXiv</i></font>
+    
 <b>2023</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
