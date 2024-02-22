@@ -26,9 +26,10 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 
 <h1> Services </h1>
 
-<b>PC member</b>
+* <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
 [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)<br>
-<b>Volunteer</b>
+
+* <span style="font-family: Consolas; font-size: 16px; font:bold">Volunteer</span><br>
 [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html), [IWLKG@WSDM'23](https://learningkgs.github.io/WSDM2023/organizers.html)
 
 
