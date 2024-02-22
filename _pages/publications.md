@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-<h1> Publications </h1>
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
 
 <b>2024</b>
