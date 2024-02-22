@@ -11,7 +11,7 @@ author_profile: true
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br>   
-    <i>arXiv</i></font>
+    <i>arXiv preprint</i></font>
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
     
@@ -19,7 +19,7 @@ author_profile: true
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
-    <i>arXiv</i></font>
+    <i>arXiv preprint</i></font>
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
     <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
