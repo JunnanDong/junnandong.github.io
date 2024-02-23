@@ -15,7 +15,7 @@ author_profile: true
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[Structure Guided Large Language Model for SQL GenerationCCF none](https://arxiv.org/abs/2402.13284). </b></span>  <br>
+  <b>[Structure Guided Large Language Model for SQL Generation](https://arxiv.org/abs/2402.13284). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b>Junnan Dong</b>, Hao Chen, Wentao Li, Feiran Huang, Xiao Huang<br>   
     <i>arXiv preprint</i></font>
     
