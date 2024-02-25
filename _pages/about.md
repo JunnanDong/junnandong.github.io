@@ -26,9 +26,9 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <span style="font-family: Consolas; font-size: 15px; font: bold"><span style="color: #00008B; font-size: 16px;">&bull; </span>\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">Services</span></h1>
-* <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
+<span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
 <span style="font-family: Consolas; font-size: 14px">[TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
-* <span style="font-family: Consolas; font-size: 16px; font:bold">Volunteer</span><br>
+<span style="font-family: Consolas; font-size: 16px; font:bold">Volunteer</span><br>
 <span style="font-family: Consolas; font-size: 14px">[IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html), [IWLKG@WSDM'23](https://learningkgs.github.io/WSDM2023/organizers.html)</span><br>
 
 
