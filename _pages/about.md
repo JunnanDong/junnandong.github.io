@@ -11,7 +11,7 @@ redirect_from:
 <span style="font-size: 16px; font: bold">I am currently a second-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
 My research interests lie in Data Mining and Graph Learning, especially in exploring <b>Knowledge-enhanced Reasoning</b> for various tasks. <i>Recently, I have been working on integrating and improving Large Language Models for a more knowledgeable foundation</i>.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">Contact: hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
-<h1><span style="font-size: 20px; font-family: Consolas; font: bold">🗞News</span></h1>
+<h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was released which comprehensively integrates the implicit knowledge in LLMs for Knowledge-based VQA.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which improves LLMs with Knowledge Graphs.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
