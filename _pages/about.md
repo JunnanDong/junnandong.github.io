@@ -17,12 +17,12 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.09\] Invited to serve as the reviewer of TKDD and PC member of IWLKG@ICDM'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.09\] Our paper <b><span style="color: #CD5C5C">GSA</span></b> was accepted by ICWL'23.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold"><span style="color: #00008B; font-size: 16px;">&bull; </span>\[2023.08\] One paper was accepted by TKDE'23. </span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold"><span style="color: #00008B; font-size: 16px;">&bull; </span>\[2023.04\] One paper was accepted by SIGIR'23.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.08\] One paper was accepted by TKDE'23. </span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.04\] One paper was accepted by SIGIR'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.01\] Our paper <b><span style="color: #CD5C5C">HamQA</span></b> was accepted by TheWebConf(WWW)'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2022.08\] Our paper <b><span style="color: #CD5C5C">KAEL</span></b> was accepted by WSDM'23.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold"><span style="color: #00008B; font-size: 16px;">&bull; </span>\[2022.05\] One paper was accepted by CIKM'22.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">Services</span></h1>
 <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
 <span style="font-family: Consolas; font-size: 14px">[TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
