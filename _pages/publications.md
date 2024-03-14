@@ -29,7 +29,7 @@ author_profile: true
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583376). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong*</b>, Qinggang Zhang*, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
-    <i>The ACM Web Conference</i> (<b>WWW</b>) https://img.shields.io/badge/Citations-22-red
+    <i>The ACM Web Conference</i> (<b>WWW</b>)
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="160"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
