@@ -14,7 +14,7 @@ My research interests lie in Data Mining and Graph Learning, especially in explo
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was released which comprehensively integrates the implicit knowledge in LLMs for Knowledge-based VQA.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which improves LLMs with Knowledge Graphs.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which injects the factual knowledge into black-box LLMs.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.09\] Invited to serve as the reviewer of TKDD and PC member of IWLKG@ICDM'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.09\] Our paper <b><span style="color: #CD5C5C">GSA</span></b> was accepted by ICWL'23.</span><br>
