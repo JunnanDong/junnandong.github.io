@@ -17,7 +17,7 @@ My research interests lie in <b>Large Language Models </b> and <b>Knowledge Grap
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which injects the factual knowledge into black-box LLMs.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.09\] Invited to serve as the reviewer of TKDD and PC member of IWLKG@ICDM'23.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.09\] Our paper <b>GSA</b> was accepted by ICWL'23.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.09\] Our paper GSA was accepted by ICWL'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.08\] One paper was accepted by TKDE'23. </span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.04\] One paper was accepted by SIGIR'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
