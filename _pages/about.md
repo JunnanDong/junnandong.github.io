@@ -13,7 +13,7 @@ My research interests lie in <b>Large Language Models </b> and <b>Knowledge Grap
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was accepted by ACL'24.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was accepted by ACL'24 (main).</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.01\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was released which injects the factual knowledge into black-box LLMs.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.09\] Invited to serve as the reviewer of TKDD and PC member of IWLKG@ICDM'23.</span><br>
