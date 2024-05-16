@@ -9,7 +9,7 @@ author_profile: true
 
 <b>2024</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). </b></span>  <br>
+  <b>[Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br>   
     <i>The 62nd Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>)</font>
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
