@@ -18,6 +18,12 @@ author_profile: true
   <b>[Structure Guided Large Language Model for SQL Generation](https://arxiv.org/abs/2402.13284). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b>Junnan Dong</b>, Hao Chen, Wentao Li, Feiran Huang, Xiao Huang<br>   
     <i>arXiv preprint</i></font>
+* <span style="font-family: Consolas; font-size: 16px; font:bold">
+  <b>[Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://junnandong.github.io). </b></span>  <br>
+    <font face="verdana" size=2>Qinggang Zhang, keyu Duan, <b>Junnan Dong</b>, Xiao Huang<br>   
+    <i>**KDD**</i></font>
+
+    
     
 <b>2023</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
