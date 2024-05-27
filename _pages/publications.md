@@ -20,8 +20,8 @@ author_profile: true
     <i>arXiv preprint</i></font>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://junnandong.github.io). </b></span>  <br>
-    <font face="verdana" size=2>Qinggang Zhang, keyu Duan, <b>Junnan Dong</b>, Xiao Huang<br>   
-    <i>**KDD**</i></font>
+    <font face="verdana" size=2>Qinggang Zhang, keyu Duan, <b>Junnan Dong</b>, Pai Zheng, Xiao Huang<br>   
+    <i><b>KDD</b></i></font>
 
     
     
