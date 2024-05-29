@@ -25,7 +25,7 @@ author_profile: true
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, keyu Duan, <b>Junnan Dong</b>, Pai Zheng, Xiao Huang<br>   
-    <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining<b>KDD</b></i></font>
+    <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>)</i></font>
 
     
     
