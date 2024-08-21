@@ -11,13 +11,14 @@ author_profile: true
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong*</b>, Qinggang Zhang*, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br>   
-    <i>The 62nd Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>)</font>
+    <i>The 62nd Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL (main)</b>)</font>
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Cost-efficient Knowledge-based Question Answering with Large Language Models](https://arxiv.org/pdf/2405.17337). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang<br>   
     <i>arXiv preprint</i></font>
+    <img src="/images/COKE.png" alt="COKE" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Structure Guided Large Language Model for SQL Generation](https://arxiv.org/abs/2402.13284). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b>Junnan Dong</b>, Hao Chen, Wentao Li, Feiran Huang, Xiao Huang<br>   
@@ -63,9 +64,3 @@ author_profile: true
     <font face="verdana" size=2>Qinggang Zhang, <b> Junnan Dong</b>, Qiaoyu Tan, Xiao Huang  <br> 
     <i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)</font>
     <img src="/images/AEKE.png" alt="AEKE" width="620"/>
-
-<b>2022</b>
-* <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).  </b></span>   <br>
-    <font face="verdana" size=2>Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang, Yezi Liu, Linchuan Xu.    <br>  
-    <i>ACM International Conference on Information and Knowledge Management</i> (<b>CIKM</b>)  </font> 
