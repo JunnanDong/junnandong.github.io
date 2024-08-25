@@ -13,7 +13,7 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
-<span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.08\] I will serve as the PC member of TheWebConf(WWW)'25.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.08\] I will serve as the PC member of ICLR'25 and TheWebConf(WWW)'25.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was released for cost-efficient knowledge-based QA with LLMs.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.05\] I will serve as the reviewer of NeurIPS'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.05\] One paper was accepted by KDD'24. </span><br>
@@ -29,7 +29,7 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">✍Services</span></h1>
 <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
-<span style="font-family: Consolas; font-size: 14px">[TheWebConf(WWW)'25](https://www2025.thewebconf.org/), [NeurIPS'24](https://nips.cc/Conferences/2024), [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
+<span style="font-family: Consolas; font-size: 14px">ICLR'25, [TheWebConf(WWW)'25](https://www2025.thewebconf.org/), [NeurIPS'24](https://nips.cc/Conferences/2024), [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
 <span style="font-family: Consolas; font-size: 16px; font:bold">Volunteer</span><br>
 <span style="font-family: Consolas; font-size: 14px">[IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html), [IWLKG@WSDM'23](https://learningkgs.github.io/WSDM2023/organizers.html)</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">🏆Awards</span></h1>
