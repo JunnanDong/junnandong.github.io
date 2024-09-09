@@ -29,9 +29,7 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">✍Services</span></h1>
 <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
-<span style="font-family: Consolas; font-size: 14px">ICLR'25, [TheWebConf(WWW)'25](https://www2025.thewebconf.org/), [NeurIPS'24](https://nips.cc/Conferences/2024), [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
-<span style="font-family: Consolas; font-size: 16px; font:bold">Volunteer</span><br>
-<span style="font-family: Consolas; font-size: 14px">[IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html), [IWLKG@WSDM'23](https://learningkgs.github.io/WSDM2023/organizers.html)</span><br>
+<span style="font-family: Consolas; font-size: 14px">[ICLR'25](https://iclr.cc/), [TheWebConf(WWW)'25](https://www2025.thewebconf.org/), [NeurIPS'24](https://nips.cc/Conferences/2024), [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">🏆Awards</span></h1>
 <span style="font-family: Consolas; font-size: 14px">2024 Hong Kong Polytechnic University Top Conference Grant - $20000HKD</span><br>
 <span style="font-family: Consolas; font-size: 14px">2023 Hong Kong Polytechnic University Additional Top Conference Grant - $20000HKD</span><br>
