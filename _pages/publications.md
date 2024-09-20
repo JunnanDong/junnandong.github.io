@@ -27,6 +27,10 @@ author_profile: true
   <b>[Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, keyu Duan, <b>Junnan Dong</b>, Pai Zheng, Xiao Huang<br>   
     <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>)</i></font>
+* <span style="font-family: Consolas; font-size: 16px; font:bold">
+  <b>[QUEST: Efficient Extreme Multi-Label Text Classification with Large Language Models on Commodity Hardware](https://junnandong.github.io). </b></span>  <br>
+    <font face="verdana" size=2>Chuang Zhou, <b>Junnan Dong</b>，Zirui Liu，Kaixiong Zhou，Xiao Huang，Zhaozhuo Xu<br>   
+    <i>Empirical Methods in Natural Language Processing 2024 (<b>EMNLP</b>)</i></font>
 
     
     
