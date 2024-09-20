@@ -13,6 +13,7 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.08\] One paper was accepted by EMNLP'24 (findings). </span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.08\] I will serve as the PC member of ICLR'25 and TheWebConf(WWW)'25.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was released for cost-efficient knowledge-based QA with LLMs.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.05\] I will serve as the reviewer of NeurIPS'24.</span><br>
