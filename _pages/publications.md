@@ -9,16 +9,22 @@ author_profile: true
 
 <b>2024</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
+  <b>[Cost-efficient Knowledge-based Question Answering with Large Language Models](https://arxiv.org/pdf/2405.17337). </b></span>  <br>
+    <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang<br>   
+    <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
+    <img src="/images/COKE.png" alt="COKE" width="450"/>
+* <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong*</b>, Qinggang Zhang*, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br>   
     <i>The 62nd Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL main</b>)</font>
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[Cost-efficient Knowledge-based Question Answering with Large Language Models](https://arxiv.org/pdf/2405.17337). </b></span>  <br>
-    <font face="verdana" size=2><b>Junnan Dong</b>, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang<br>   
-    <i>arXiv preprint</i></font>
-    <img src="/images/COKE.png" alt="COKE" width="450"/>
+  <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
+    <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
+    <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
+    <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
+    <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Structure Guided Large Language Model for SQL Generation](https://arxiv.org/abs/2402.13284). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b>Junnan Dong</b>, Hao Chen, Wentao Li, Feiran Huang, Xiao Huang<br>   
@@ -35,12 +41,6 @@ author_profile: true
     
     
 <b>2023</b>
-* <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
-    <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
-    <i>arXiv preprint</i></font>
-    <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
-    <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583376). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong*</b>, Qinggang Zhang*, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   
