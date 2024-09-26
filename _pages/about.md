@@ -14,20 +14,20 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24! 🎇🎇🎇</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! (First Author)</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>! (Co-First Author)</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! <b>(First Author)</b></span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>! <b>(Co-First Author)</b></span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] One paper was accepted by EMNLP'24 (findings). </span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.08\] I will serve as the PC member of ICLR'25 and TheWebConf(WWW)'25.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.05\] I will serve as the reviewer of NeurIPS'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.05\] One paper was accepted by KDD'24. </span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was accepted by <b>ACL'24 (main)</b>. (First Author)</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was accepted by <b>ACL'24 (main)</b>. <b>(First Author)</b></span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.09\] Our paper GSA was accepted by ICWL'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.08\] One paper was accepted by TKDE'23. </span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2023.04\] One paper was accepted by SIGIR'23.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.01\] Our paper <b><span style="color: #CD5C5C">HamQA</span></b> was accepted by <b>TheWebConf'23</b>. (First Author)</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2022.08\] Our paper <b><span style="color: #CD5C5C">KAEL</span></b> was accepted by <b>WSDM'23</b>. (First Author)</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2023.01\] Our paper <b><span style="color: #CD5C5C">HamQA</span></b> was accepted by <b>TheWebConf'23</b>. <b>(First Author)</b></span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2022.08\] Our paper <b><span style="color: #CD5C5C">KAEL</span></b> was accepted by <b>WSDM'23</b>. <b>(First Author)</b></span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">✍Services</span></h1>
 <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
