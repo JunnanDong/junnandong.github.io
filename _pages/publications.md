@@ -26,6 +26,10 @@ author_profile: true
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
     <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
+  <b>[Entity Alignment with Noisy Annotations from Large Language Models](https://arxiv.org/abs/2405.16806). </b></span>  <br>
+    <font face="verdana" size=2>Shengyuan Chen, Qinggang Zhang, <b>Junnan Dong</b>, Wen Hua, Qing Li, Xiao Huang <br>   
+    <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
+* <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Structure Guided Large Language Model for SQL Generation](https://arxiv.org/abs/2402.13284). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b>Junnan Dong</b>, Hao Chen, Wentao Li, Feiran Huang, Xiao Huang<br>   
     <i>arXiv preprint</i></font>
