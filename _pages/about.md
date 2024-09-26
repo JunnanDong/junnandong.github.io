@@ -13,7 +13,7 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers was accepted by NeurIPS'24! 🎇🎇🎇</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24! 🎇🎇🎇</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! (First Author)</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>! (Co-First Author)</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] One paper was accepted by EMNLP'24 (findings). </span><br>
