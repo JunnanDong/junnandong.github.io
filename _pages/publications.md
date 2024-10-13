@@ -27,7 +27,7 @@ author_profile: true
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
-    <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
+    <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong* (co-first)</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
     <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
     <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>
