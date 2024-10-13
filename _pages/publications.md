@@ -12,7 +12,7 @@ author_profile: true
   <b>[CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang<br>   
     <i>under review</i></font>
-    <img src="/images/CLR_running.png" alt="MAIL_running" width="450"/>
+    <img src="/images/CLR_running.png" alt="MAIL_running" width="450"/><br>
     <img src="/images/CLR_framework.png" alt="MAIL" width="450"/>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>[Cost-efficient Knowledge-based Question Answering with Large Language Models](https://arxiv.org/pdf/2405.17337). </b></span>  <br>
