@@ -9,7 +9,7 @@ author_profile: true
 
 <b>2024</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/abs/2402.12728). </b></span>  <br>
+  <b>[CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/abs/2410.17558). </b></span>  <br>
     <font face="verdana" size=2><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang<br>   
     <i>under review</i></font>
     <img src="/images/CLR_running.png" alt="MAIL_running" width="450"/><br>
