@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px; font: bold">I am currently a third-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage").<br>
+<span style="font-size: 16px; font: bold">I am currently a third-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I was recognized by the 'Ant Star' Talent Project by Ant Group.<br> 
 My research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>Knowledge-enhanced LLMs</b> and <b>Graph RAG</b> for various tasks.</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
-<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.01\] I am recognized by the 🌟'<b>Ant Star</b>' Talent Project by Ant Group!</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.01\] I am recognized by the 🌟'<b>Ant Star</b>' Talent Project by Ant Group.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">CLR-Bench</span></b> was released to evaluate the reasoning ability of LLMs in college-level reasoning tasks under two new metrics over a carefully constructed dataset. <b>(First Author)</b></span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24! 🎇🎇🎇</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24! 🎇</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! <b>(First Author)</b></span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>! <b>(Co-First Author)</b></span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] One paper was accepted by EMNLP'24 (findings). </span><br>
