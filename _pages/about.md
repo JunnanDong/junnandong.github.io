@@ -13,12 +13,12 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
-<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.02\] I am nominated by the Department of Computing of Hong Kong Polytechnic University as the 'Best Research Postgraduate Student' of 2024.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.02\] I am nominated by the Department of Computing of Hong Kong Polytechnic University as the '<b>Best Research Postgraduate Student</b>' of 2024.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.01\] I am recognized by the 🌟'<b>Ant Star</b>' Talent Project by Ant Group.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">CLR-Bench</span></b> was released to evaluate the reasoning ability of LLMs in college-level reasoning tasks under two new metrics over a carefully constructed dataset. <b>(First Author)</b></span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">CLR-Bench</span></b> was released to evaluate the reasoning ability of LLMs in college-level reasoning tasks under two new metrics over a carefully constructed dataset.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24! 🎇</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! <b>(First Author)</b></span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>! <b>(Co-First Author)</b></span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>!</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] One paper was accepted by EMNLP'24 (findings). </span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.08\] I will serve as the PC member of ICLR'25 and TheWebConf(WWW)'25.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🔎\[2024.05\] I will serve as the reviewer of NeurIPS'24.</span><br>
