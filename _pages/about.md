@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0414e54b-80cf-452f-bf3d-32259bbd01d6)---
+---
 permalink: /
 title: "Towards a Data Researcher"
 excerpt: "About me"
