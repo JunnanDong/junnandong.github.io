@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/0414e54b-80cf-452f-bf3d-32259bbd01d6)---
 permalink: /
 title: "Towards a Data Researcher"
 excerpt: "About me"
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px; font: bold">I am currently a third-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was recognized by the 'Ant Star' Talent Project of Ant Group. I was nominated by the Department of Computing of Hong Kong Polytechnic University as the 'Best Research Postgraduate Student' of 2024.<br> 
+<span style="font-size: 16px; font: bold">I am currently a third-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was recognized by the '**Ant Star**' Talent Project of Ant Group. I was nominated by the Department of Computing of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.<br> 
 My research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>Knowledge-enhanced LLMs</b> and <b>Graph RAG</b> for various tasks.</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
@@ -36,9 +36,9 @@ My research interests focus on <b>Large Language Models </b> and <b>Knowledge Gr
 <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
 <span style="font-family: Consolas; font-size: 14px">[ICLR'25](https://iclr.cc/), [TheWebConf(WWW)'25](https://www2025.thewebconf.org/), [NeurIPS'24](https://nips.cc/Conferences/2024), [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">🏆Awards</span></h1>
-<span style="font-family: Consolas; font-size: 14px">2024 Best Research Postgraduate nominated by the Department of Computing of Hong Kong Polytechnic University</span><br>
-<span style="font-family: Consolas; font-size: 14px">2024 NeurIPS Scholar Award</span><br>
-<span style="font-family: Consolas; font-size: 14px">2023 Hong Kong Polytechnic University Additional Top Conference Grant - $20000HKD</span><br>
+<span style="font-family: Consolas; font-size: 14px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU</span><br>
+<span style="font-family: Consolas; font-size: 14px">2024 <b>NeurIPS Scholar Award</b></span><br>
+<span style="font-family: Consolas; font-size: 14px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">🧑‍🏫Teaching</span></h1>
 <span style="font-family: Consolas; font-size: 14px">Teaching Assistant COMP5113: AI and Big Data Computing Programming</span><br>
 <span style="font-family: Consolas; font-size: 14px">Teaching Assistant COMP4423: Computer Vision</span><br>
