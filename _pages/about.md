@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Towards a Data Researcher"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px; font: bold">I am currently a third-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was recognized by the '**Ant Star**' Talent Project of Ant Group. I was nominated by the Department of Computing of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.<br> 
+<span style="font-family: Comic Sans MS; font-size: 16px; font: bold">I am currently a third-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was recognized by the '**Ant Star**' Talent Project of Ant Group. I was nominated by the Department of Computing of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.
+
 My research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>Knowledge-enhanced LLMs</b> and <b>Graph RAG</b> for various tasks.</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
