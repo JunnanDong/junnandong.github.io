@@ -35,7 +35,7 @@ redirect_from:
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">✍Services</span></h1>
 <span style="font-family: Consolas; font-size: 16px; font:bold">PC Member</span><br>
-<span style="font-family: Consolas; font-size: 14px">[ICLR'25](https://iclr.cc/), [TheWebConf(WWW)'25](https://www2025.thewebconf.org/), [NeurIPS'24](https://nips.cc/Conferences/2024), [TheWebConf(WWW)'24](https://www2024.thewebconf.org/), [IWLKG@ICDM'23](https://learningkgs.github.io/ICDM2023/organizers.html)</span><br>
+<span style="font-family: Consolas; font-size: 14px">NeurIPS(2024-2025), ICML 2025, ICLR 2025, ACL 2025, TheWebConf(WWW) (2024-2025)</span><br>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">🏆Awards</span></h1>
 <span style="font-family: Consolas; font-size: 14px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU</span><br>
 <span style="font-family: Consolas; font-size: 14px">2024 <b>NeurIPS Scholar Award</b></span><br>
