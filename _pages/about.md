@@ -14,9 +14,9 @@ redirect_from:
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Consolas; font-size: 15px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk</span>
 <h1><span style="font-size: 20px; font-family: Consolas; font: bold">📰News</span></h1>
-<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.01\] I will join the `Qingyun' Top Talent Project in Tencent Youtu Lab.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.02\] I am nominated by the Faculty of Computer and Mathematical Science as the '<b>Best Research Postgraduate Student</b>' of 2024.</span><br>
-<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.02\] I am nominated by the Department of Computing as the '<b>Best Research Postgraduate Student</b>' of 2024.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.01\] I will join the <b><span style="color: #CD5C5C">`Qingyun'</b></span> Top Talent Project in Tencent Youtu Lab.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.02\] I am nominated by the Faculty of Computer and Mathematical Science as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
+<span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.02\] I am nominated by the Department of Computing as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">🚩\[2025.01\] I am recognized by the 🌟'<b>Ant Star</b>' Talent Project by Ant Group.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">CLR-Bench</span></b> was released to evaluate the reasoning ability of LLMs in college-level reasoning tasks under two new metrics over a carefully constructed dataset.</span><br>
 <span style="font-family: Consolas; font-size: 15px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24! 🎇</span><br>
