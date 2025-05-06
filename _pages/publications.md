@@ -8,7 +8,7 @@ author_profile: true
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
 <b>2025</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
-  <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
+  <b>Structure-Guided Large Language Models for Text-to-SQL Generation. </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, Hao Chen, <b>Junnan Dong</b>, Shengyuan Chen, Feiran Huang, Xiao Huang<br>   
     <i>Forty-second International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 
