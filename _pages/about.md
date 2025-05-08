@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Times New Roman; font-size: 17px">I am currently a final-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I am now working as a researcher in Tencent Youtu Lab. I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.</span>
+<span style="font-family: Times New Roman; font-size: 17px">I am now working as a researcher in Tencent Youtu Lab, focusing on both the research and implementation of Large Language Model-based GraphRAG and Text2SQL. I am currently a final-year Ph.D. student (since May 2022) in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.</span>
 
 <span style="font-family: Times New Roman; font-size: 17px">My research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>Knowledge-enhanced LLMs</b> and <b>GraphRAG</b> for various tasks.</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Times New Roman; font-size: 17px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk / hansonj{last_name}[at]tencent[dot]com</span>
 <h1><span style="font-size: 20px; font-family: Times New Roman; font: bold">📰News</span></h1>
-<span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2025.05\] One paper were accepted by ICML'25.</span><br>
+<span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2025.05\] One paper was accepted by ICML'25.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.04\] I will join the <b><span style="color: #CD5C5C">`Qingyun'</span></b> Talent Project (腾讯青云计划) in Tencent Youtu Lab.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.02\] I am nominated by the Faculty of Computer and Mathematical Science as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.02\] I am nominated by the Department of Computing as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
