@@ -15,10 +15,10 @@ redirect_from:
 <span style="font-family: Times New Roman; font-size: 17px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk / hansonj{last_name}[at]tencent[dot]com</span>
 <h1><span style="font-size: 20px; font-family: Times New Roman; font: bold">📰News</span></h1>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2025.05\] One paper was accepted by ICML'25.</span><br>
-<span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.04\] I will join the <b><span style="color: #CD5C5C">`Qingyun'</span></b> Talent Project (腾讯青云计划) in Tencent Youtu Lab.</span><br>
+<span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.04\] I will join the <b><span style="color: #CD5C5C">`Qingyun'</span></b> Talent Project in Tencent Youtu Lab.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.02\] I am nominated by the Faculty of Computer and Mathematical Science as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.02\] I am nominated by the Department of Computing as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
-<span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.01\] I am recognized by the 🌟'<b>Ant Star</b>' Talent Project（蚂蚁星）by Ant Group.</span><br>
+<span style="font-family: Times New Roman; font-size: 17px; font: bold">🚩\[2025.01\] I am recognized by the 🌟'<b>Ant Star</b>' Talent Project by Ant Group.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">CLR-Bench</span></b> was released to evaluate the reasoning ability of LLMs in college-level reasoning tasks under two new metrics over a carefully constructed dataset.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2024.09\] Three papers were accepted by NeurIPS'24.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! </span><br>
