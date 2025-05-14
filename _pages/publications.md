@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <font face="Consolas" size=2><b>* for Co-first Author</b></font>
+<font face="Consolas" size=2><b>▲ for Corresponding Author</b></font>
 <b>2025</b>
 * <span style="font-family: Consolas; font-size: 16px; font:bold">
   <b>Structure-Guided Large Language Models for Text-to-SQL Generation. </b></span>  <br>
