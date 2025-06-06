@@ -23,11 +23,8 @@ redirect_from:
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">COKE</span></b> was accepted by <b>NeurIPS'24</b>! </span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2024.09\] Our paper <b><span style="color: #CD5C5C">KnowGPT</span></b> was accepted by <b>NeurIPS'24</b>!</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2024.09\] One paper was accepted by EMNLP'24 (findings). </span><br>
-<span style="font-family: Times New Roman; font-size: 17px; font: bold">🔎\[2024.08\] I will serve as the PC member of ICLR'25 and TheWebConf(WWW)'25.</span><br>
-<span style="font-family: Times New Roman; font-size: 17px; font: bold">🔎\[2024.05\] I will serve as the reviewer of NeurIPS'24.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2024.05\] One paper was accepted by KDD'24. </span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2024.05\] Our paper <b><span style="color: #CD5C5C">MAIL</span></b> was accepted by <b>ACL'24 (main)</b>.</span><br>
-<span style="font-family: Times New Roman; font-size: 17px; font: bold">🔎\[2023.10\] I will serve as the PC member of TheWebConf(WWW)'24.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2023.09\] Our paper GSA was accepted by ICWL'23.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2023.08\] One paper was accepted by TKDE'23. </span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2023.04\] One paper was accepted by SIGIR'23.</span><br>
@@ -36,7 +33,7 @@ redirect_from:
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📜\[2022.08\] Our paper <b><span style="color: #CD5C5C">KAEL</span></b> was accepted by <b>WSDM'23</b>.</span><br>
 <span style="font-family: Times New Roman; font-size: 17px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Times New Roman; font: bold">✍Services</span></h1>
-<span style="font-family: Times New Roman; font-size: 17px; font:bold">PC Member</span><br>
+<span style="font-family: Times New Roman; font-size: 17px; font:bold"><b>PC Member</b></span><br>
 <span style="font-family: Times New Roman; font-size: 17px">NeurIPS(2024-2025), ICML 2025, ICLR 2025, ACL 2025, TheWebConf(WWW) (2024-2025)</span><br>
 <h1><span style="font-size: 20px; font-family: Times New Roman; font: bold">🏆Awards</span></h1>
 <span style="font-family: Times New Roman; font-size: 17px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
