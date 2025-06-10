@@ -40,7 +40,7 @@ author_profile: true
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
 * <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">
-  <b>[KnowGPT: Black-Box Knowledge Injection for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
+  <b>[KnowGPT: Knowledge Graph Prompting for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang*, <b>Junnan Dong* (co-first)</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   
     <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
@@ -85,10 +85,7 @@ author_profile: true
   <b>[Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Huachi Zhou, Hao Chen, <b>Junnan Dong</b>, Daochen Zha, Chuang Zhou, Xiao Huang  <br> 
     <i>ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>  
-    <img src="/images/APDA_running example.png" alt="APDA_running" width="160"/>
-    <img src="/images/APDA.png" alt="APDA" width="450"/>
 * <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">
   <b>[Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://junnandong.github.io). </b></span>  <br>
     <font face="verdana" size=2>Qinggang Zhang, <b> Junnan Dong</b>, Qiaoyu Tan, Xiao Huang  <br> 
     <i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)</font>
-    <img src="/images/AEKE.png" alt="AEKE" width="620"/>
