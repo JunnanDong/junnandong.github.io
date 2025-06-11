@@ -13,7 +13,7 @@ author_profile: true
     <font face="Trebuchet MS" size=2>Yilin Xiao*, <b>Junnan Dong*▲</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang<br>   
     <i>arXiv</i></font>
 * <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">
-  <b>HyperRAG: Query-centric Graph Retrieval-Augmented Generation </b></span>  <br>
+  <b>HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Adaptive Knowledge Structuring</b></span>  <br>
     <font face="Trebuchet MS" size=2>Chuang Zhou, <b>Junnan Dong▲</b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang<br>   
     <i>arXiv</i></font>    
 * <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">
