@@ -12,7 +12,8 @@ redirect_from:
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>GraphRAG</b> for various domains-specific scenarios.</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk / hansonj{last_name}[at]tencent[dot]com</span>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk<br>
+hansonj{last_name}[at]tencent[dot]com</span>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 News</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2025.06\] We have released the first tailored benchmark for GraphRAG, <b><span style="color: #CD5C5C">[GraphRAG-Bench](https://github.com/jeremycp3/GraphRAG-Bench)</span></b> and the corresponding [leaderboard]( https://deep-polyu.github.io/RAG/).</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">🚩\[2025.05\] I passed the Ph.D. oral defense! Thanks to my distinguished panel members: [Prof.Yuanqing Zheng(PolyU)](https://www.polyu.edu.hk/comp/people/academic-staff/prof-zheng-yuanqing/), [Prof. Yangqiu Song (HKUST)](https://home.cse.ust.hk/~yqsong/), [Prof. Yixin Cao (FDU)](https://www.caoyixin.site/)</span><br>
