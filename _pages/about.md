@@ -35,7 +35,7 @@ hansonj{last_name}[at]tencent[dot]com</span>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">✍ Services</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>PC Member</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML 2025, ICLR 2025, ACL 2025, TheWebConf(WWW) (2024-2025)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML 2025, ICLR 2025, ACL 2025 (Feb, May), TheWebConf(WWW) (2024-2025)</span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
