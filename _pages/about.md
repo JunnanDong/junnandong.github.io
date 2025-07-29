@@ -31,7 +31,12 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">🚩\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2023.01\] Our paper <b><span style="color: #CD5C5C">HamQA</span></b> was accepted by <b>TheWebConf'23</b>.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2022.08\] Our paper <b><span style="color: #CD5C5C">KAEL</span></b> was accepted by <b>WSDM'23</b>.</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><be>
+<h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
+  <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>GraphRAG v1.0</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px"></span>()<br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>GraphRAG-Bench</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px"></span>()<br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">✍ Services</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>PC Member</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML 2025, ICLR 2025, ACL 2025 (Feb/May/Jul), TheWebConf(WWW) (2024-2025)</span><br>
