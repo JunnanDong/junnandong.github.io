@@ -12,7 +12,7 @@ redirect_from:
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>GraphRAG</b> and <b>Agent</b> for various domains-specific scenarios.</span><br>
 
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C"">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on GraphRAG and Agents. Please feel free to drop me an email with your CV!**</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on GraphRAG and Agents. Please feel free to drop me an email with your CV!**</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 News</span></h1>
