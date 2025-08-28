@@ -9,13 +9,13 @@ author_profile: true
 <font face="Trebuchet MS" size=3><b>▲ for Corresponding Author</b></font>
 <b>2025</b>
 * <span style="font-family: Trebuchet MS; font-size: 17px; font:bold">
-  <b>Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning</b></span>  <br>
+  <b>[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://arxiv.org/pdf/2508.19855)</b></span>  <br>
     <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Siyu An, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun<br>   
     <i>arXiv</i></font>
     <img src="/images/youtu-graphrag-running.png" alt="MAIL" width="160"/>
     <img src="/images/youtu-graphrag-framework.png" alt="MAIL" width="450"/>    
 * <span style="font-family: Trebuchet MS; font-size: 17px; font:bold">
-  <b>GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation </b></span>  <br>
+  <b>[GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.02404) </b></span>  <br>
     <font face="Trebuchet MS" size=3>Yilin Xiao*, <b>Junnan Dong*▲</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang<br>   
     <i>arXiv</i></font>
     <img src="/images/bench.png" alt="MAIL" width="450"/>
