@@ -16,7 +16,7 @@ redirect_from:
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 News</span></h1>
-<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2025.09\] We have released the <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> that vertically unifies the GraphRAG framework for advanced industrial implementation and also an anonymous dataset named 'AnonyRAG'. [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2025.09\] ✨We have released the <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> that vertically unifies the GraphRAG framework for advanced industrial implementation and also an anonymous dataset named 'AnonyRAG'. [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2025.06\] We have released the first tailored benchmark for GraphRAG, <b><span style="color: #CD5C5C">[GraphRAG-Bench](https://github.com/jeremycp3/GraphRAG-Bench)</span></b> and the corresponding [leaderboard]( https://deep-polyu.github.io/RAG/).</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">🚩\[2025.05\] I passed the Ph.D. oral defense! Thanks to my distinguished panel members: [Prof.Yuanqing Zheng(PolyU)](https://www.polyu.edu.hk/comp/people/academic-staff/prof-zheng-yuanqing/), [Prof. Yangqiu Song (HKUST)](https://home.cse.ust.hk/~yqsong/), [Prof. Yixin Cao (FDU)](https://www.caoyixin.site/)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📬\[2025.05\] One paper was accepted by ICML'25.</span><br>
@@ -36,9 +36,9 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📜\[2022.08\] Our paper <b><span style="color: #CD5C5C">KAEL</span></b> was accepted by <b>WSDM'23</b>.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">📬\[2022.05\] One paper was accepted by CIKM'22.</span><be>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>[Youtu-GraphRAG v1.0](https://github.com/TencentCloudADP/youtu-graphrag)</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈[Youtu-GraphRAG v1.0](https://github.com/TencentCloudADP/youtu-graphrag)</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">📣[机器之心](), 📣[Tencent Cloud](https://mp.weixin.qq.com/s/Ddf3rpdJP8P_L5yaPnBFBA), 📣[Tencent YouTu Lab](https://mp.weixin.qq.com/s/5DG_jC8ceIsaka7qqHaoNw), 📣[老刘说NLP](https://mp.weixin.qq.com/s/k39f3epLwnKimZ5Ui5DhKg)</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>[GraphRAG-Bench](https://github.com/jeremycp3/GraphRAG-Bench)</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈[GraphRAG-Bench](https://github.com/jeremycp3/GraphRAG-Bench)</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">📣[NebulaGraph Tech Community](https://www.nebula-graph.com.cn/posts/GraphRAG-Bench), 📣[Tencent YouTu Lab](https://mp.weixin.qq.com/s/HUApXtD050i55g298rWFBg), 📣[老刘说NLP](https://mmssai.com/archives/46293) </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">✍ Services</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>Program Committee Member</b></span><br>
