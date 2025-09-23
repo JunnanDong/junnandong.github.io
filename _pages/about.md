@@ -49,10 +49,10 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px">ACL main 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">4. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>📍, Qinggang Zhang📍, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">WWW</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">WWW 2023</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">5. Active Ensemble Learning for Knowledge Graph Error Detection.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">WSDM</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">WSDM 2023</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">6. CLR-Bench: Evaluating Large Language Models in College-level Reasoning.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arXiv</span><br>
