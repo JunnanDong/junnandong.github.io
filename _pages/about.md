@@ -37,7 +37,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> Selected Publications</span></h1>
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>📍for co-first author, 📩 for corresponding author</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">📍for co-first author, 📩 for corresponding author</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>1. Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasonin.</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong📍</b>, Siyu An📍, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
@@ -57,7 +57,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>7. GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation.</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao*, <b>Junnan Dong📍📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao📍, <b>Junnan Dong📍📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>8. HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Adaptive Knowledge Structuring.</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang</span><br>
