@@ -37,18 +37,18 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> Selected Publications (first, co-first, corresponding)</span></h1>
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">📍for co-first author, 📩 for corresponding author</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">*for co-first author, 📩 for corresponding author</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>1. [Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://github.com/TencentCloudADP/youtu-graphrag).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong📍</b>, Siyu An📍, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong*</b>, Siyu An*, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arxiv [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>2. [Cost-efficient Knowledge-based Question Answering with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/d0aafec03d59db29a92fa683bd783374-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">NeurIPS 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>3. [Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/pdf/2402.12728).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>📍, Qinggang Zhang📍, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong*</b>, Qinggang Zhang*, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">ACL main 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>4. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3543507.3583376).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>📍, Qinggang Zhang📍, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong*</b>, Qinggang Zhang*, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">WWW 2023</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>5. [Active Ensemble Learning for Knowledge Graph Error Detection](https://dl.acm.org/doi/pdf/10.1145/3539597.3570368).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao</span><br>
@@ -57,13 +57,13 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>7. [GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.02404).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao📍, <b>Junnan Dong📍📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao*, <b>Junnan Dong*📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>8. HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Hyperbolic Structuring.</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>9. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Qinggang Zhang📍, <b>Junnan Dong📍</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">NeurIPS 2024</span><br>
 
 
