@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a researcher at Tencent Youtu Lab, specializing in the research of Large Language Model-based techniques, e.g., GraphRAG and Agent. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.</span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a researcher at Tencent Youtu Lab, specializing in the research of Large Language Model-based techniques, e.g., GraphRAG and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.</span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models </b> and <b>Knowledge Graphs</b>, especially in exploring <b>GraphRAG</b> and <b>Agent</b> for various domains-specific scenarios.</span><br>
 
@@ -25,9 +25,9 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">🚩\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈[Youtu-GraphRAG v1.0](https://github.com/TencentCloudADP/youtu-graphrag)</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">📣[机器之心](https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg), 📣[Tencent Cloud](https://mp.weixin.qq.com/s/Ddf3rpdJP8P_L5yaPnBFBA), 📣[Tencent YouTu Lab](https://mp.weixin.qq.com/s/5DG_jC8ceIsaka7qqHaoNw), 📣[老刘说NLP](https://mp.weixin.qq.com/s/k39f3epLwnKimZ5Ui5DhKg)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">📣[机器之心](https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg), 📣[Tencent Cloud](https://mp.weixin.qq.com/s/Ddf3rpdJP8P_L5yaPnBFBA), 📣[Tencent Youtu Lab](https://mp.weixin.qq.com/s/5DG_jC8ceIsaka7qqHaoNw), 📣[老刘说NLP](https://mp.weixin.qq.com/s/k39f3epLwnKimZ5Ui5DhKg)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈[GraphRAG-Bench](https://github.com/jeremycp3/GraphRAG-Bench)</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">📣[NebulaGraph Tech Community](https://www.nebula-graph.com.cn/posts/GraphRAG-Bench), 📣[Tencent YouTu Lab](https://mp.weixin.qq.com/s/HUApXtD050i55g298rWFBg), 📣[老刘说NLP](https://mmssai.com/archives/46293) </span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">📣[NebulaGraph Tech Community](https://www.nebula-graph.com.cn/posts/GraphRAG-Bench), 📣[Tencent Youtu Lab](https://mp.weixin.qq.com/s/HUApXtD050i55g298rWFBg), 📣[老刘说NLP](https://mmssai.com/archives/46293) </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">✍ Services</span></h1>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>Program Committee Member</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">AAAI 2026, NeurIPS(2024-2025), ICML 2025, ICLR (2025-2026), ACL 2025 (Feb/May/Jul/Oct), TheWebConf(WWW) (2024-2026)</span><br>
