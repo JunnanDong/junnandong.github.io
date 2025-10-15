@@ -11,7 +11,7 @@ author_profile: true
 * <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">
   <b>[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://arxiv.org/pdf/2508.19855)</b></span>  <br>
     <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Siyu An, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun<br>   
-    <i>arXiv </i></font>(✨admitted by the [DeepSeek Official Awesome Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration))[![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/https://github.com/TencentCloudADP/youtu-graphrag) 
+    <i>arXiv </i>(✨admitted by the [DeepSeek Official Awesome Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration))[![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/https://github.com/TencentCloudADP/youtu-graphrag)</font><br> 
     <img src="/images/youtu-graphrag-running.png" alt="MAIL" width="160"/>
     <img src="/images/youtu-graphrag-framework.png" alt="MAIL" width="450"/>    
 * <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">
