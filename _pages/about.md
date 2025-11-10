@@ -35,6 +35,7 @@ redirect_from:
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈Youtu-GraphRAG v1.0</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
+<img src="/images/You Tech.jpg" alt="You-Tech" width="200"/>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈Youtu-GraphRAG v1.0</b></span><br>
