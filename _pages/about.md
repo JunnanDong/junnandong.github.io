@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research of Large Language Model-based techniques, e.g., GraphRAG and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.</span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research of Large Language Models and LLM-based applications, e.g., GraphRAG and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science of Hong Kong Polytechnic University as the '**Best Research Postgraduate Student**' of 2024.</span>
 
-<span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b>, <b>Agents</b> and <b>Knowledge Graphs</b>, especially in exploring <b>GraphRAG</b> and <b>Graph-enhanced Agents</b> for various domains-specific scenarios.</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b>, <b>Agents</b> and <b>Knowledge Graphs</b>, especially in exploring <b>GraphRAG</b> and <b>Agents</b> for various domains-specific scenarios.</span><br>
 
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on GraphRAG and Agents. Please feel free to drop me an email with your CV!**</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
