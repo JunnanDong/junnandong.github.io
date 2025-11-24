@@ -36,7 +36,7 @@ redirect_from:
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈GraphRAG</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[CCF ChinaData](https://ccf.org.cn/chinadata2025)</span><br>
-<img src="/images/CCF ChinaData.jpg" alt="CCF ChinaData" width="160"/>
+<img src="/images/CCF ChinaData.jpg" alt="CCF ChinaData" width="160"/><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
 <img src="/images/You Tech.jpg" alt="You-Tech" width="160"/>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
