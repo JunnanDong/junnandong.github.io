@@ -25,13 +25,6 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.04\] I will join <b><span style="color: #CD5C5C">`Qingyun'</span></b> Top Talent Program ([腾讯青云计划](https://join.qq.com/qingyun.html)) at Tencent Youtu Lab.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.02\] I am nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science as the <span style="color: #CD5C5C">'<b>Best Research Postgraduate Student</b>'</span> of 2024.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
-<h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
----
-<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Tencent 'Qingyun' Top Talent Program</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🎙 Talks</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈GraphRAG</b></span><br>
@@ -49,7 +42,13 @@ redirect_from:
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>Program Committee Member</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">AAAI 2026, NeurIPS(2024-2025), ICML 2025, ICLR (2025-2026), ACL 2025 (Feb/May/Jul/Oct), TheWebConf(WWW) (2024-2026)</span><br>
-
+<h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
+---
+<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Tencent 'Qingyun' Top Talent Program</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> Selected Publications (first, co-first, corresponding)</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">*for co-first author, 📩 for corresponding author</span><br>
