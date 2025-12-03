@@ -27,7 +27,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2023.04\] I passed the confirmation as a Ph.D. Candidate. Thanks to the distinguished panel members: [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/), [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) and [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🎙 Talks</span></h1>
 ---
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈GraphRAG</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈GraphRAG / Graph+Agents</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[CCF ChinaData](https://mp.weixin.qq.com/s/gZ9x8h46U4XOJ1UGsprptg)</span><br>
 <!-- <img src="/images/CCF ChinaData.jpg" alt="CCF ChinaData" width="160"/><br> -->
 <span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
