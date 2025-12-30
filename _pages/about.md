@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research of Graph-enhanced Large Language Models and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science as the '**Best Research Postgraduate Student**' of 2024.</span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research of Large Language Models and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I was nominated by both the Department of Computing and the Faculty of Computer and Mathematical Science as the '**Best Research Postgraduate Student**' of 2024.</span>
 
-<span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b>, <b>Agents</b> and <b>Graphs</b>, for various domains-specific scenarios.</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b> and <b>Agents</b>, for various domains-specific scenarios.</span><br>
 
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on GraphRAG and Agents. Please feel free to drop me an email with your CV!**</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM and Agents. Please feel free to drop me an email with your CV!**</span><br>
 ![](https://img.shields.io/badge/Contact-Welcome-blue)<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 Highlights</span></h1>
