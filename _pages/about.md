@@ -13,8 +13,9 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b> and <b>Agents</b>, for various domains-specific scenarios.</span><br>
 
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM and Agents. Please feel free to drop me an email with your CV!**</span><br>
-![](https://img.shields.io/badge/Contact-Welcome-blue)<br> ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjunnandong.github.io%2F&label=Visitors+%28Today%2FTotal%29&icon=chat-dots&color=%23a98eda&message=&style=plastic&tz=UTC)
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk
+![](https://img.shields.io/badge/Contact-Welcome-blue)<br> 
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk<br>
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjunnandong.github.io%2F&label=Visitors+%28Today%2FTotal%29&icon=chat-dots&color=%23a98eda&message=&style=plastic&tz=UTC)
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 Highlights</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2026.01\] 🎉 Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been accepted by ICLR 2026!<br>
