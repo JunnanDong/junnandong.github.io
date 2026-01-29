@@ -74,15 +74,21 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>7. [CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/pdf/2410.17558?).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">arXiv</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>8. [GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.02404).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao*, <b>Junnan Dong*📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>9. [HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Hyperbolic Structuring](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>10. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
+  <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>8. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Qinggang Zhang*, <b>Junnan Dong* </b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">NeurIPS 2024</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>9. [GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.02404).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao*, <b>Junnan Dong*📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>10. [HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Hyperbolic Structuring](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>11. [Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Yilin Xiao, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Zheng Yuan, Chuang Zhou, Linhao Luo, <b>Junnan Dong📩</b>, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">arxiv</span><br>
 
 
 
