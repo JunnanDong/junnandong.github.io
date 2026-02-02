@@ -50,7 +50,12 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
-<h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> Selected Publications (first, co-first, corresponding)</span></h1>
+
+<h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> 🕹 Product Depolyment</span></h1>
+---
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈Youtu-GraphRAG</b></span><br>
+
+<h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> 🎨 Selected Publications (first, co-first, corresponding)</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">*for co-first author, 📩 for corresponding author</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>1. [Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://github.com/TencentCloudADP/youtu-graphrag).</b></span><br>
