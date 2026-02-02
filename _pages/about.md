@@ -42,7 +42,7 @@ redirect_from:
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">✍ Services</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>Program Committee Member</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">AAAI 2026, NeurIPS(2024-2025), ICML 2025, ICLR (2025-2026), ACL 2025 (Feb/May/Jul/Oct), TheWebConf(WWW) (2024-2026)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML (2025-2026), ICLR (2025-2026), ACL (2025-2026), TheWebConf(WWW) (2024-2026), AAAI 2026, </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
