@@ -55,40 +55,40 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">*for co-first author, 📩 for corresponding author</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>1. [Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://github.com/TencentCloudADP/youtu-graphrag).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Siyu An, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">ICLR 2026 [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)  (✨<span style="color: #CD5C5C">admitted by the [DeepSeek Official Awesome Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)</span>)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ICLR 2026 [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)  (✨<span style="color: #CD5C5C">admitted by the [DeepSeek Official Awesome Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)</span>)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>2. [Deep Tabular Research via Continual Experience-Driven Execution]().</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Chuang Zhou, Zheng Yuan, Yifei Yu, Siyu An, Di Yin, Xing Sun, Feiyue Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">arXiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>3. [Cost-efficient Knowledge-based Question Answering with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/d0aafec03d59db29a92fa683bd783374-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">NeurIPS 2024</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">NeurIPS 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>4. [Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/pdf/2402.12728).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong </b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">ACL main 2024</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL main 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>5. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3543507.3583376).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong </b>, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">WWW 2023</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">WWW 2023</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>6. [Active Ensemble Learning for Knowledge Graph Error Detection](https://dl.acm.org/doi/pdf/10.1145/3539597.3570368).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">WSDM 2023</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">WSDM 2023</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>7. [CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/pdf/2410.17558?).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">arXiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
   <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>8. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Qinggang Zhang*, <b>Junnan Dong* </b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">NeurIPS 2024</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">NeurIPS 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>9. [GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.02404).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao*, <b>Junnan Dong*📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arxiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>10. [HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Hyperbolic Structuring](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Sun Xing, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arxiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>11. [Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arxiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://openreview.net/forum?id=PSrABo8b1z).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Zheng Yuan, Chuang Zhou, Linhao Luo, <b>Junnan Dong📩</b>, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #6A5ACD">arxiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arxiv</span><br>
 
 
 
