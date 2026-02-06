@@ -94,9 +94,9 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>11. [Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b>Junnan Dong📩</b>, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://junnandong.github.io/).</b></span><br>
+<!-- <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Zheng Yuan, Chuang Zhou, Linhao Luo, <b>Junnan Dong📩</b>, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br> -->
 
 
 
