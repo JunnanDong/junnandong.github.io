@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models, Diffusion Language Models and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and Agents. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b>, <b>Diffusion Language Models</b> and <b>Agents</b>, for various domains-specific scenarios.</span><br>
 
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM and Agents. Please feel free to drop me an email with your CV!**</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM and GraphRAG. Please feel free to drop me an email with your CV!**</span><br>
 ![](https://img.shields.io/badge/📥Contact-Welcome-blue)<br> 
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk<br>
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjunnandong.github.io%2F&label=Visitors+%28Today%2FTotal%29&icon=chat-dots&color=%23a98eda&message=&style=plastic&tz=UTC)
