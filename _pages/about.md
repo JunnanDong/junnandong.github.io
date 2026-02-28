@@ -40,7 +40,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab - 🎈GraphRAG](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
 <img src="/images/You Tech.jpg" alt="You-Tech" width="200"/><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[SCAI-SHUFE - 🎈KGQA with LLMs](https://mp.weixin.qq.com/s/olg0QBZkbt2fd206p69BMA)</span><br>
-<img src="/images/SHUFE.png" alt="SHUFE" width="300"/>
+<img src="/images/SHUFE.png" alt="SHUFE" width="200"/>
 
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
 ---
