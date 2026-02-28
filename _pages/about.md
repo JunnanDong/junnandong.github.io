@@ -35,12 +35,11 @@ redirect_from:
 
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🎙 Talks</span></h1>
 ---
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈GraphRAG / Graph+Agents</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">[CCF ChinaData](https://ccf.org.cn/chinadata2025/schedule_d_4021)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">[CCF ChinaData - 🎈Graph+Agents](https://ccf.org.cn/chinadata2025/schedule_d_4021)</span><br>
 <img src="/images/ccfchinadata.jpg" alt="CCF ChinaData" width="200"/><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
-<img src="/images/You Tech.jpg" alt="You-Tech" width="200"/>
-<span style="font-family: Trebuchet MS; font-size: 16px">[SCAI-SHUFE](https://mp.weixin.qq.com/s/olg0QBZkbt2fd206p69BMA)</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab - 🎈GraphRAG](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
+<img src="/images/You Tech.jpg" alt="You-Tech" width="200"/><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">[SCAI-SHUFE - 🎈KGQA with LLMs](https://mp.weixin.qq.com/s/olg0QBZkbt2fd206p69BMA)</span><br>
 <img src="/images/SHUFE.png" alt="SHUFE" width="300"/>
 
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
