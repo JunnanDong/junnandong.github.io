@@ -40,6 +40,9 @@ redirect_from:
 <img src="/images/ccfchinadata.jpg" alt="CCF ChinaData" width="200"/><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[Tencent Youtu Lab](https://mp.weixin.qq.com/s/JjVeO8rtqhuo9MeQgVJyOQ)</span><br>
 <img src="/images/You Tech.jpg" alt="You-Tech" width="200"/>
+<span style="font-family: Trebuchet MS; font-size: 16px">[SCAI-SHUFE](https://mp.weixin.qq.com/s/olg0QBZkbt2fd206p69BMA)</span><br>
+<img src="/images/SHUFE.png" alt="SHUFE" width="300"/>
+
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈Youtu-GraphRAG v1.0</b></span><br>
