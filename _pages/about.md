@@ -19,6 +19,7 @@ redirect_from:
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 Highlights</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2026.01\] 🎉 Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been accepted to ICLR 2026!<br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] We have released the Youtu-LLM v1, a super effective pre-trained LLM for agents.<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] I will give a talk at CCF ChinaData, [GraphRAG Forum](https://ccf.org.cn/chinadata2025/schedule_d_4021), in Guiyang City.<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.10\] ✨ Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been admitted by the [DeepSeek Official Awesome Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration).<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.09\] ✨ We have released the <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> that vertically unifies the GraphRAG framework for advanced industrial implementation and also an anonymous dataset named 'AnonyRAG'. [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)</span><br>
