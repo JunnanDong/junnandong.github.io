@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related applications. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, supervised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related applications. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b>, <b>Diffusion Language Models</b>, <b>RAG</b> and <b>Agents</b>, in various domain-specific scenarios.</span><br>
 
