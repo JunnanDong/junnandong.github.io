@@ -12,7 +12,7 @@ redirect_from:
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on <b>Large Language Models</b>, <b>Diffusion Language Models</b>, <b>RAG</b> and <b>Agents</b>, in various domain-specific scenarios.</span><br>
 
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM Pretraining, LLM Pretraining, and Multimodal LLM Pretraining. Please feel free to drop me an email with your CV!**</span><br>
+<!-- <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM Pretraining, LLM Pretraining, and Multimodal LLM Pretraining. Please feel free to drop me an email with your CV!**</span><br> -->
 ![](https://img.shields.io/badge/📥Contact-Welcome-blue)<br> 
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk<br>
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjunnandong.github.io%2F&label=Visitors+%28Today%2FTotal%29&icon=chat-dots&color=%23a98eda&message=&style=plastic&tz=UTC)
