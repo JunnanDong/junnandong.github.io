@@ -18,7 +18,6 @@ redirect_from:
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjunnandong.github.io%2F&label=Visitors+%28Today%2FTotal%29&icon=chat-dots&color=%23a98eda&message=&style=plastic&tz=UTC)
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📰 Highlights</span></h1>
 ---
-<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2026.04\] 🎉 Our MeshRAG and HyperRAG have been accepted to ACL 2026.<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2026.01\] 🎉 Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been accepted to ICLR 2026! [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] We have released the Youtu-LLM v1, a super effective pre-trained LLM for agents.<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] I will give a talk at CCF ChinaData, [GraphRAG Forum](https://ccf.org.cn/chinadata2025/schedule_d_4021), in Guiyang City.<br>
