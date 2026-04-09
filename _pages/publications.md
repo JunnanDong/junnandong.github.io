@@ -32,7 +32,7 @@ author_profile: true
     <img src="/images/youtu-graphrag-framework.png" alt="MAIL" width="450"/>    
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>[GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.02404) </b></span>  <br>
-    <font face="Trebuchet MS" size=3>Yilin Xiao*, <b>Junnan Dong*📩</b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang<br>   
+    <font face="Trebuchet MS" size=3>Yilin Xiao*, <b><span style="color: #CD5C5C">Junnan Dong*†</span></b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang<br>   
     <i>arXiv</i></font>
     <img src="/images/bench.png" alt="MAIL" width="450"/>
 
