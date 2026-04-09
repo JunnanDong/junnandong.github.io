@@ -7,18 +7,19 @@ author_profile: true
 
 <font face="Trebuchet MS" size=3><b>* for Co-first Author</b></font>
 <font face="Trebuchet MS" size=3><b><span style="color: #CD5C5C">† for corresponding author</span></b></font>
+
 <b>2026</b>
-* <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>2. [Deep Tabular Research via Continual Experience-Driven Execution](https://arxiv.org/abs/2603.09151).</b></span><br>
+* <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>[Deep Tabular Research via Continual Experience-Driven Execution](https://arxiv.org/abs/2603.09151).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Chuang Zhou, Zheng Yuan, Yifei Yu, Siyu An, Di Yin, Xing Sun, Feiyue Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Adaptive Knowledge Structuring</b></span>  <br>
     <font face="Trebuchet MS" size=3>Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong (Project Lead)</span></b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang<br>   
     <i>ACL Main 2026</i></font>
-* <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>11. [Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://junnandong.github.io/).</b></span><br>
+* <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>[Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2026</span><br>
-* <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://junnandong.github.io/).</b></span><br>
+* <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>[MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Zheng Yuan, Chuang Zhou, Linhao Luo, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
     
