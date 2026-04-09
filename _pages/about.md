@@ -75,7 +75,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">NeurIPS 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>4. [Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/pdf/2402.12728).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong </b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL main 2024</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>5. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3543507.3583376).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong </b>, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">WWW 2023</span><br>
@@ -93,10 +93,10 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>10. [HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Hyperbolic Structuring](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong(Project Lead)</span></b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Sun Xing, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL 2026</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2026</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>11. [Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL 2026</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2026</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Zheng Yuan, Chuang Zhou, Linhao Luo, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
