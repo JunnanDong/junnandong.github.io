@@ -14,7 +14,7 @@ redirect_from:
 - <b>Large Language Models (LLMs)</b>
 - <b>Multimodal Large Language Models (MLLMs)</b>
 - <b>Retrieval-Augmented Generation (RAG)</b>
-- <b>Agents</b>
+- <b>Agents</b></span>
 
 <!-- <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM Pretraining, LLM Pretraining, and Multimodal LLM Pretraining. Please feel free to drop me an email with your CV!**</span><br> -->
 ![](https://img.shields.io/badge/📥Contact-Welcome-blue)<br> 
