@@ -52,30 +52,30 @@ author_profile: true
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>[Modality-Aware Integration with Large Language Models for Knowledge-based VQA](https://arxiv.org/abs/2402.12728). </b></span>  <br>
     <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang<br></font>   
-    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">The 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL main</b>)</span>
+    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">The 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL Main</b>)</span><br>
     <img src="/images/MAIL_running.png" alt="MAIL_running" width="160"/>
     <img src="/images/MAIL.png" alt="MAIL" width="450"/>
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>[KnowGPT: Knowledge Graph Prompting for Large Language Models](https://arxiv.org/abs/2312.06185). </b></span>  <br>
     <font face="Trebuchet MS" size=3>Qinggang Zhang*, <b>Junnan Dong* (Co-First)</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu <br>   </font>
-    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">Thirty-Eighth Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)/span>
+    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">Thirty-Eighth Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)/span><br>
     <img src="/images/KnowGPT_running.jpg" alt="KnowGPT_running" width="160"/>
     <img src="/images/KnowGPT.jpg" alt="KnowGPT" width="450"/>    
     
 <b>2023</b>
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/10.1145/3543507.3583376). </b></span>  <br>
-    <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang  <br>   </font>
-   <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B"> The ACM Web Conference</i> (<b>WWW</b>)</span>
+    <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang </font> <br>   
+   <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B"> The ACM Web Conference(<b>WWW</b>)</span>
     <img src="/images/HamQA_running.jpg" alt="HamQA_running" width="160"/>
     <img src="/images/HamQA.jpg" alt="HamQA" width="450"/>
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>[Active Ensemble Learning for Knowledge Graph Error Detection](https://dl.acm.org/doi/10.1145/3539597.3570368). </b></span>  <br>
-    <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao  <br>   </font>
-    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACM International Conference on Web Search and Data Mining (<b>WSDM</b>)/span>
+    <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao </font> <br>   
+    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACM International Conference on Web Search and Data Mining (<b>WSDM</b>)</span>
     <img src="/images/KAEL_running.jpg" alt="KAEL_running" width="160"/>
     <img src="/images/KAEL.jpg" alt="KAEL" width="450"/>
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>[Gradual Study Advising with Course Knowledge Graphs](https://junnandong.github.io). </b></span>  <br>
-    <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, <br> George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng <br> </font> 
-    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">Internation Conference on Web-based Learning (<b>ICWL</b>)/span>
+    <font face="Trebuchet MS" size=3><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, <br> George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng </font><br>  
+    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">Internation Conference on Web-based Learning (<b>ICWL</b>)</span>
