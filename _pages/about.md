@@ -11,10 +11,10 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on:</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #8B008B">Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 14px"> Diffusion Language Models (DLM),  Data Construction,  SFT,  RL</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #8B008B">Multimodal Large Language Models (MLLMs): </span><span style="font-family: Trebuchet MS; font-size: 14px"> Interleaved Data Construction,  DLM-based Unified MLLM</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #8B008B">Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 14px"> GraphRAG</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #8B008B">Agents: </span><span style="font-family: Trebuchet MS; font-size: 14px"> Deep Research,  Deep Tabular Research</span>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 14px"> Diffusion Language Models (DLMs),  Data Construction,  SFT,  RL</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">Multimodal Large Language Models (MLLMs): </span><span style="font-family: Trebuchet MS; font-size: 14px"> Native MLLMs, Interleaved Data Construction </span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 14px"> RAG, GraphRAG</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">Agents: </span><span style="font-family: Trebuchet MS; font-size: 14px"> Deep Research,  Deep Tabular Research</span>
 
 <!-- <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM Pretraining, LLM Pretraining, and Multimodal LLM Pretraining. Please feel free to drop me an email with your CV!**</span><br> -->
 ![](https://img.shields.io/badge/📥Contact-Welcome-blue)<br> 
@@ -56,7 +56,7 @@ redirect_from:
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">✍ Services</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>Program Committee Member</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML (2025-2026), ICLR (2025-2026), ACL (2025-2026), TheWebConf(WWW) (2024-2026), AAAI 2026, </span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML (2025-2026), ICLR (2025-2026), ACL (2025-2026), TheWebConf(WWW) (2024-2026), AAAI 2026 </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
