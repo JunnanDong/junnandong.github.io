@@ -15,7 +15,7 @@ author_profile: true
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">
   <b>HyperRAG: Query-centric Graph Retrieval-Augmented Generation with Adaptive Knowledge Structuring</b></span>  <br>
     <font face="Trebuchet MS" size=3>Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong (Project Lead)</span></b>, Yilin Xiao, Su Dong, Shengyuan Chen, Di Yin, Xiao Huang<br>   
-    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br></font>
+    <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2026</span><br></font>
 * <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>[Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2026</span><br>
