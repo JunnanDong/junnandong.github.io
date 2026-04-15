@@ -34,7 +34,6 @@ redirect_from:
 
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold"> 🕹 From Research to Production</span></h1>
 ---
-<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>Youtu-GraphRAG</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[[ICLR' 26]Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag) 🚩 [腾讯智能体开发平台 Tencent ADP]([https://junnandong.github.io/](https://cloud.tencent.com/product/adp?Is=home))</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[Deep Tabular Research](https://github.com/TencentCloudADP/youtu-graphrag) 🚩 [腾讯智能体开发平台 Tencent ADP]([https://junnandong.github.io/](https://cloud.tencent.com/product/adp?Is=home))</span><br>
 
