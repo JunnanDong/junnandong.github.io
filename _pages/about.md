@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
 
-<span style="font-family: Trebuchet MS; font-size: 16px">My current research interests focus on:</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am currently passionate about researching:</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥑 Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 14px"> Diffusion Language Models (DLMs),  Data Construction,  SFT,  RL</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥨 Multimodal Large Language Models (MLLMs): </span><span style="font-family: Trebuchet MS; font-size: 14px"> Native MLLMs, Interleaved Data Construction </span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🍤 Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 14px"> RAG, GraphRAG</span><br>
