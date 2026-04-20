@@ -11,10 +11,10 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">I am currently passionate about researching:</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥑 Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 14px"> Diffusion Language Models (DLMs),  Data Construction,  SFT,  RL</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥨 Multimodal Large Language Models (MLLMs): </span><span style="font-family: Trebuchet MS; font-size: 14px"> Native MLLMs, Interleaved Data Construction </span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🍤 Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 14px"> RAG, GraphRAG</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥓 Agents: </span><span style="font-family: Trebuchet MS; font-size: 14px"> Deep Research,  Deep Tabular Research</span>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥑 Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 16px"> Diffusion Language Models (DLMs),  Data Construction,  SFT,  RL</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥨 Multimodal Large Language Models (MLLMs): </span><span style="font-family: Trebuchet MS; font-size: 16px"> Native MLLMs, Interleaved Data Construction </span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🍤 Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 16px"> GraphRAG, Agentic RAG</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥓 Agents: </span><span style="font-family: Trebuchet MS; font-size: 16px"> Deep Research,  Deep Tabular Research</span>
 
 <!-- <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns for exploration on Diffusion LM Pretraining, LLM Pretraining, and Multimodal LLM Pretraining. Please feel free to drop me an email with your CV!**</span><br> -->
 ![](https://img.shields.io/badge/📥Contact-Welcome-blue)<br> 
