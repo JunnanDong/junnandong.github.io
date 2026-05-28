@@ -23,7 +23,7 @@ redirect_from:
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjunnandong.github.io%2F&label=Visitors+%28Today%2FTotal%29&icon=chat-dots&color=%23a98eda&message=&style=plastic&tz=UTC)
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📣 Highlights</span></h1>
 ---
-<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] 🔥 We release the first survey of Native Multimodal Modeling, [Toward Native Multimodal Modeling: A Roadmap](https://nmm-roadmap.github.io/)<a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] 🔥 We release the first survey of Native Multimodal Modeling, [Toward Native Multimodal Modeling: A Roadmap](https://nmm-roadmap.github.io/) <a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2026.01\] 🎉 Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been accepted to ICLR 2026! [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] We release Youtu-LLM v1, a super effective pre-trained LLM for agents.<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] I will give a talk at CCF ChinaData, [GraphRAG Forum](https://ccf.org.cn/chinadata2025/schedule_d_4021), in Guiyang City.<br>
@@ -71,7 +71,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">*for co-first author, <span style="color: #CD5C5C">† for corresponding author</span></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>1. [Toward Native Multimodal Modeling: A Roadmap]().</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Siyu An*, Junru Lu*, <b><span style="color: #CD5C5C">Junnan Dong*†</span></b> et al.</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv <a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>2. [Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://github.com/TencentCloudADP/youtu-graphrag).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Siyu An, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ICLR 2026 [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)  (✨<span style="color: #CD5C5C">admitted by the DeepSeek Official Awesome Integrations</span>[Link](https://github.com/deepseek-ai/awesome-deepseek-integration))</span><br>
