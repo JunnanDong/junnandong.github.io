@@ -64,8 +64,8 @@ redirect_from:
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Tencent 'Qingyun' Top Talent Program</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Tencent 'Qingyun' Top Talent Program（青云计划）</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program （蚂蚁星）</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 
