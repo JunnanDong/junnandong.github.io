@@ -26,7 +26,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] 🔥 We release the first survey of Native Multimodal Modeling, [Toward Native Multimodal Modeling: A Roadmap](https://nmm-roadmap.github.io/) <a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2026.01\] 🎉 Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been accepted to ICLR 2026! [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] We release Youtu-LLM v1, a super effective pre-trained LLM for agents.<br>
-<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] I will give a talk at CCF ChinaData(中国数据大会), [GraphRAG Forum](https://ccf.org.cn/chinadata2025/schedule_d_4021), in Guiyang City.<br>
+<span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.12\] I will give a talk at CCF ChinaData (中国数据大会), [GraphRAG Forum](https://ccf.org.cn/chinadata2025/schedule_d_4021), in Guiyang City.<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.10\] ✨ Our <span style="color: #CD5C5C">[Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span> has been admitted by the [DeepSeek Official Awesome Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration).<br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.05\] I passed the Ph.D. oral defense! Thanks to my distinguished panel members: [Prof.Yuanqing Zheng(PolyU)](https://www.polyu.edu.hk/comp/people/academic-staff/prof-zheng-yuanqing/), [Prof. Yangqiu Song (HKUST)](https://home.cse.ust.hk/~yqsong/), [Prof. Yixin Cao (FDU)](https://www.caoyixin.site/)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font: bold">\[2025.04\] I will join Tencent Youtu Lab through <b>`Qingyun' Top Talent Program</b> ([腾讯青云计划](https://join.qq.com/qingyun.html)).</span><br>
@@ -65,7 +65,7 @@ redirect_from:
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Tencent 'Qingyun' Top Talent Program（青云计划）</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program （蚂蚁星）</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program（蚂蚁星）</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2024 <b>NeurIPS Scholar Award</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2023 Hong Kong Polytechnic University Additional Top Conference Grant</span><br>
 
