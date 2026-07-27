@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University in 2025, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).</span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">I am currently passionate about researching:</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥑 Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 16px"> Diffusion Language Models (DLMs),  Data Construction,  SFT,  RL</span><br>
