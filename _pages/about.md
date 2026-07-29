@@ -63,6 +63,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML (2025-2026), ICLR (2025-2026), ACL (2025-2026), WWW (2024-2026), AAAI (2026-2027), NLPCC 2026 </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
 ---
+<span style="font-family: Trebuchet MS; font-size: 16px">2026 Tencent Outstanding Contributor</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Best Research Postgraduate Student</b> nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Tencent 'Qingyun' Top Talent Program（青云计划）</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 <b>Ant Group 'Ant Star' Top Talent Program（蚂蚁星）</b></span><br>
