@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University in 2025, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I have received <a href='https://scholar.google.com/citations?user=m7_ceMcAAAAJ&hl=en' target="_blank"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> with papers published on top-tier conferences and journals, e.g., NeurIPS, ICML, ICLR, ACL, SIGIR, KDD, WWW and TKDEetc. </span>
+<span style="font-family: Trebuchet MS; font-size: 16px">I am now a senior researcher at Tencent Youtu Lab, specializing in the research and development of Large Language Models and related directions. I obtained my Ph.D. degree from The Hong Kong Polytechnic University in 2025, Department of Computing, proudly advised by [Prof. Xiao Huang](https://web.comp.polyu.edu.hk/xiaohuang/index.html) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). I have received <a href="https://scholar.google.com/citations?user=m7_ceMcAAAAJ&hl=en" target="_blank">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fbyronyi%2Fgoogle-scholar-stats%2Fm7_ceMcAAAAJ.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>with papers published on top-tier conferences and journals, e.g., NeurIPS, ICML, ICLR, ACL, SIGIR, KDD, WWW and TKDEetc. </span>
 
 <span style="font-family: Trebuchet MS; font-size: 16px">I am currently passionate about researching:</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥑 Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 16px"> Diffusion Language Models (DLMs),  Data Construction,  SFT,  RL</span><br>
