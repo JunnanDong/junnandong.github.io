@@ -1,4 +1,4 @@
----
+<img width="2042" height="1322" alt="Clipboard_Screenshot_1786325519" src="https://github.com/user-attachments/assets/a6673010-8883-4068-ad55-5fc63edb300d" /><img width="2042" height="1322" alt="Clipboard_Screenshot_1786325519" src="https://github.com/user-attachments/assets/c0d78042-b99f-4495-b444-1604f4cb4b47" />---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -112,9 +112,12 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>13. [Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG](https://junnandong.github.io/).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Chuang Zhou, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ACL Main 2026</span><br>
-<!-- <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>14. [MoG: Mixture of Experts for Graph-Augmented Complex Reasoning](https://junnandong.github.io/).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Zheng Yuan, Chuang Zhou, Linhao Luo, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Siyu An, di yin, Xing Sun, Xiao Huang</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br> -->
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>14. [Disentangling Long-Term Memory via Latent Neuro-Symbolic Resaoning](https://junnandong.github.io/).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Cai Ke, Xinghao Chen, Xiaoyu Shen, Keyu Chen, Siyu An, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Ruifeng Xu, Ruizhi QIao, Xing Sun</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
+
+
+
 
 
 
