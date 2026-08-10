@@ -1,4 +1,4 @@
-<img width="2042" height="1322" alt="Clipboard_Screenshot_1786325519" src="https://github.com/user-attachments/assets/a6673010-8883-4068-ad55-5fc63edb300d" /><img width="2042" height="1322" alt="Clipboard_Screenshot_1786325519" src="https://github.com/user-attachments/assets/c0d78042-b99f-4495-b444-1604f4cb4b47" />---
+---
 permalink: /
 title: ""
 excerpt: "About me"
