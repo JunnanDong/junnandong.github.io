@@ -114,7 +114,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>14. [Toward Native Multimodal Modeling: A Roadmap]().</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Siyu An*, Junru Lu*, <b><span style="color: #CD5C5C">Junnan Dong*†</span></b> et al.</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv <a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">EMNLP 2026 Findings <a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a></span><br>
 
 
 
