@@ -76,7 +76,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>1. [Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](https://github.com/TencentCloudADP/youtu-graphrag).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Siyu An, Yifei Yu, Qian-wen Zhang, Linhao Luo, Xiao Huang, Yunsheng Wu, Di Yin, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ICLR 2026 [![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)  (✨<span style="color: #CD5C5C">admitted by the DeepSeek Official Awesome Integrations</span> [Link](https://github.com/deepseek-ai/awesome-deepseek-integration))</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>2. [WFM: Wiki Foundation Model for Complex Agentic Reasoning]().</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>2. [WFM: Wiki Foundation Model for Complex Agentic Reasoning](https://arxiv.org/pdf/2609.18182).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Linhao Luo, Senlei Zhang, Gong Chen, Taian Guo, Yifei Yu, Rong Tao, Tao Guo, Qian-Wen Zhang, Siyu An, Ruizhi Qiao, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>3. [Deep Tabular Research via Continual Experience-Driven Execution](https://arxiv.org/abs/2603.09151).</b></span><br>
