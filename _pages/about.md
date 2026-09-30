@@ -125,7 +125,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px">Cai Ke, Xinghao Chen, Yuanchen Bei, Yuni Lai, Keyu Chen, Ruizhi Qiao, Siyu An, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Ruifeng Xu, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>18. [Attuner: Recomputation-Free KV Cache Reuse via Query-Side Adaptation](https://arxiv.org/pdf/2609.24346).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Xinghao Chen, <b>Junnan Dong</b>, Cai Ke, Chak Tou Leong, Haocheng Sun, Keyu Chen, Siyu An, Ruizhi Qiao, Xing Sun, Wenjie Li, Xiaoyu Shen</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Xinghao Chen*, <b>Junnan Dong*</b>, Cai Ke, Chak Tou Leong, Haocheng Sun, Keyu Chen, Siyu An, Ruizhi Qiao, Xing Sun, Wenjie Li, Xiaoyu Shen</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 
 
