@@ -100,7 +100,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>9. [Gradual Study Advising with Course Knowledge Graphs]([https://arxiv.org/pdf/2410.17558?](https://junnandong.github.io)).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, <br> George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ICWL 2023</span><br>
-  <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>10. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>10. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Qinggang Zhang*, <b>Junnan Dong* </b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">NeurIPS 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>11. [GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.02404).</b></span><br>
@@ -118,7 +118,9 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>15. [Toward Native Multimodal Modeling: A Roadmap](https://arxiv.org/pdf/2605.25343).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Siyu An*, Junru Lu*, <b><span style="color: #CD5C5C">Junnan Dong*†</span></b> et al.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">EMNLP 2026 Findings <a href="https://github.com/NMM-Roadmap/Awesome-NMM-List"><img src="https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social" alt="GitHub stars"></a></span><br>
-
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>16. [LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning](https://arxiv.org/pdf/2609.24346).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px">Senlei Zhang, Linhao Luo, Qian-Wen Zhang, Siyu An, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Shuhao Zhang, Xing Sun</span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 
 
 
