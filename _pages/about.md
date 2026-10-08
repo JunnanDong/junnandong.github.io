@@ -16,7 +16,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🍤 Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 16px"> GraphRAG, Agentic RAG, Multimodal RAG</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥓 Agents: </span><span style="font-family: Trebuchet MS; font-size: 16px"> Agentic Search, Agent Memory (Latent Reasoning, Compression)</span>
 
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns to explore Memory, GraphRAG and related directions. Please feel free to drop me an email with your CV!**</span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns to explore Agent, Memory, RAG, Multimodal Agent/RAG and related directions. Please feel free to drop me an email with your CV!**</span><br>
 
 ![](https://img.shields.io/badge/📥Contact-Welcome-blue)<br> 
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold">hanson[dot]{last_name}[at]connect[dot]polyu[dot]hk<br>
