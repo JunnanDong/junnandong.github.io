@@ -53,6 +53,8 @@ redirect_from:
 
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">📻 Social Media</span></h1>
 ---
+<span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈Youtu-LLM v1.0</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 16px">[ModelScope](https://mp.weixin.qq.com/s/JJtQWSYEjnE7GnPkaJ7UNA), </span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈Youtu-GraphRAG v1.0</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">[机器之心](https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg), [Tencent Cloud (腾讯云)](https://mp.weixin.qq.com/s/Ddf3rpdJP8P_L5yaPnBFBA), [Tencent Youtu Lab (腾讯优图实验室)](https://mp.weixin.qq.com/s/5DG_jC8ceIsaka7qqHaoNw), [老刘说NLP](https://mp.weixin.qq.com/s/k39f3epLwnKimZ5Ui5DhKg)</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; font:bold"><b>🎈GraphRAG-Bench</b></span><br>
