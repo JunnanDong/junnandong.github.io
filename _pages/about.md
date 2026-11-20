@@ -91,7 +91,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px">Cai Ke, Xinghao Chen, Xiaoyu Shen, Keyu Chen, Siyu An, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Ruifeng Xu, Ruizhi Qiao, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Agent Memory】<b>5. [Latent Multimodal Memory Reasoning](https://junnandong.github.io/).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px">Cai Ke, Xinghao Chen, Yuanchen Bei, Yuni Lai, Keyu Chen, Ruizhi Qiao, Siyu An, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Ruifeng Xu, Xing Sun</span><br>
+<span style="font-family: Trebuchet MS; font-size: 14px">Cai Ke, Xinghao Chen, Yuanchen Bei, Yuni Lai, Keyu Chen, Ruizhi Qiao, Siyu An, <b><span style="color: #CD5C5C">Junnan Dong†</span></b>, Ruifeng Xu, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Agentic RAG】<b>6. [Deep Tabular Research via Continual Experience-Driven Execution](https://arxiv.org/abs/2603.09151).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Chuang Zhou, Zheng Yuan, Yifei Yu, Siyu An, Di Yin, Xing Sun, Feiyue Huang</span><br>
@@ -99,7 +99,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Agentic RAG】<b>7. [Cost-efficient Knowledge-based Question Answering with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/d0aafec03d59db29a92fa683bd783374-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">NeurIPS 2024</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold">Agentic RAG】<b>8. 【[WFM: Wiki Foundation Model for Complex Agentic Reasoning](https://arxiv.org/pdf/2609.18182).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Agentic RAG】<b>8. 【[WFM: Wiki Foundation Model for Complex Agentic Reasoning](https://arxiv.org/pdf/2609.18182).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Linhao Luo, Senlei Zhang, Gong Chen, Taian Guo, Yifei Yu, Rong Tao, Tao Guo, Qian-Wen Zhang, Siyu An, Ruizhi Qiao, Xing Sun</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br><br>
 <span style="font-size: 17px; font-family: Trebuchet MS; font: bold"><b>🔍 RAG 🔍</b></span><br>
