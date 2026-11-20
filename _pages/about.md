@@ -112,7 +112,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【GraphRAG】<b>11. [GraphRAG-Bench: Challenging Domain-Specific Reasoning for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.02404).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Yilin Xiao*, <b><span style="color: #CD5C5C">Junnan Dong*†</span></b>, Chuang Zhou, Su Dong, Qian-wen Zhang, Di Yin, Xing Sun, Xiao Huang</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">arXiv</span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px; font:bold"><b>12. 【GraphRAG】[KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
+<span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【GraphRAG】<b>12. [KnowGPT: Knowledge Graph Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf).</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px">Qinggang Zhang*, <b>Junnan Dong*</b>, Hao Chen, Xiao Huang, Daochen Zha, Zailiang Yu</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">NeurIPS 2024</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Knowledge Graphs】<b>13. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3543507.3583376).</b></span><br>
