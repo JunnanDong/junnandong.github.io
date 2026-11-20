@@ -122,7 +122,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">WSDM 2023</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Knowledge Graphs】<b>15. [Gradual Study Advising with Course Knowledge Graphs](https://junnandong.github.io).</b></span><br>
-<span style="font-family: Trebuchet MS; font-size: 15px"><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng</span><br>
+<span style="font-family: Trebuchet MS; font-size: 14px"><b>Junnan Dong</b>, Wentao Li, Yaowei Wang, Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Li Chen, Peter Ng</span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; color: #8B008B">ICWL 2023</span><br><br>
 <span style="font-size: 17px; font-family: Trebuchet MS; font: bold"><b>📽 Multimodal LLM and Evaluation 📽</b></span><br>
 <span style="font-family: Trebuchet MS; font-size: 15px; font:bold">【Native MLLM】<b>16. [🌟Toward Native Multimodal Modeling: A Roadmap](https://arxiv.org/pdf/2605.25343).</b></span><br>
