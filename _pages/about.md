@@ -13,7 +13,7 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">I am currently passionate about researching:</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥑 Large Language Models (LLMs):</span><span style="font-family: Trebuchet MS; font-size: 16px"> Inference Optimization, Diffusion Language Models</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥨 Multimodal Large Language Models (MLLMs): </span><span style="font-family: Trebuchet MS; font-size: 16px"> Native MLLMs, Interleaved Text-Image Data </span><br>
-<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥓 Agents: </span><span style="font-family: Trebuchet MS; font-size: 16px"> Agentic Search, Agent Memory (Latent Reasoning, Compression)</span>
+<span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🥓 Agents: </span><span style="font-family: Trebuchet MS; font-size: 16px"> Agentic Search, Memory</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #4682B4">🍤 Retrieval-Augmented Generation (RAG):</span><span style="font-family: Trebuchet MS; font-size: 16px"> GraphRAG, Agentic RAG, Multimodal RAG</span><br>
 
 <span style="font-family: Trebuchet MS; font-size: 16px; color: #CD5C5C">**We are actively recruiting 'Qingyun' Talent Program graduates and research interns to explore Agent, Memory, RAG, Multimodal Agent/RAG and related directions. Please feel free to drop me an email with your CV!**</span><br>
