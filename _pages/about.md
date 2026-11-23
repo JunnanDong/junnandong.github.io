@@ -65,7 +65,6 @@ redirect_from:
 <span style="font-family: Trebuchet MS; font-size: 16px">NeurIPS(2024-2025), ICML (2025-2026), ICLR (2025-2027), ACL (2025-2026), WWW (2024-2027), AAAI (2026-2027), WSDM 2027, NLPCC 2026 </span><br>
 <h1><span style="font-size: 20px; font-family: Trebuchet MS; font: bold">🏆 Awards</span></h1>
 ---
-<span style="font-family: Trebuchet MS; font-size: 16px">2026 Tencent Outstanding Patent - 'Efficient Foundation Model for Large-Scale Agentic Knowledge Compiling'</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2026 Tencent Outstanding Contributor</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 Best Research Postgraduate Student nominated by the Department of Computing in PolyU and Faculty of Computer and Mathematical Sciences.</span><br>
 <span style="font-family: Trebuchet MS; font-size: 16px">2025 Tencent 'Qingyun' Top Talent Program（青云计划）</span><br>
