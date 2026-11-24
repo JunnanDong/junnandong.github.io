@@ -38,7 +38,7 @@ redirect_from:
 ---
 <span style="font-family: Trebuchet MS; font-size: 16px">[ 🚩[ICLR' 26]Youtu-GraphRAG](https://github.com/TencentCloudADP/youtu-graphrag)</span><br>
 <!-- <img src="/images/workbuddy.png" alt="workbuddy" width="100"/><br> --> 
-<img src="/images/cloudadp.png" alt="ADP" width="110"/><br>
+<!-- <img src="/images/cloudadp.png" alt="ADP" width="110"/><br>
 <br><span style="font-family: Trebuchet MS; font-size: 16px">[ 🚩 Deep Tabular Research](https://github.com/TencentCloudADP/youtu-graphrag)</span><br>
 <img src="/images/cloudadp.png" alt="ADP" width="110"/><br> -->
 
